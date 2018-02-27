@@ -249,7 +249,7 @@ $(function () {
           } else {
             flipContents("hide");
             $("body").trigger("queryReady");
-            $('#search-results>.search-list').text('Search Results for "' + query + '"');
+            $('#search-results>.search-list').text('Resultados da pesquisa para "' + query + '"');
           }
         }).off("keydown");
       });
@@ -297,7 +297,7 @@ $(function () {
       $('#pagination').empty();
       $('#pagination').removeData("twbs-pagination");
       if (hits.length === 0) {
-        $('#search-results>.sr-items').html('<p>No results found</p>');
+        $('#search-results>.sr-items').html('<p>Não foram encontrados resultados</p>');
       } else {
         $('#pagination').twbsPagination({
           totalPages: Math.ceil(hits.length / numPerPage),
@@ -531,7 +531,7 @@ $(function () {
   function renderAffix() {
     var hierarchy = getHierarchy();
     if (hierarchy.length > 0) {
-      var html = '<h5 class="title">In This Article</h5>'
+      var html = '<h5 class="title">Neste artigo</h5>'
       html += util.formList(hierarchy, ['nav', 'bs-docs-sidenav']);
       $("#affix").empty().append(html);
       if ($('footer').is(':visible')) {
