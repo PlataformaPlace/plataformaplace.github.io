@@ -4,6 +4,21 @@
     "title": "Documentação da plataforma PLACE.",
     "keywords": "Documentação da plataforma PLACE . Documentação de referência para a utilização das funcionalidades da plataforma PLACE. Subtítulo Mais informações sobre o projeto..."
   },
+  "PlaceMiudos/Professores/horario.html": {
+    "href": "PlaceMiudos/Professores/horario.html",
+    "title": "Horário dos profs",
+    "keywords": "Horário dos profs Teste de horário!"
+  },
+  "PlaceMiudos/Professores/intro.html": {
+    "href": "PlaceMiudos/Professores/intro.html",
+    "title": "Professores - Introdução",
+    "keywords": "Professores - Introdução Bla bla bla"
+  },
+  "Place21/batata.html": {
+    "href": "Place21/batata.html",
+    "title": "Cabaçljp",
+    "keywords": "Cabaçljp Olá!!!!!"
+  },
   "PlaceMiudos/index.html": {
     "href": "PlaceMiudos/index.html",
     "title": "Documentação do PLACE Miúdos",
@@ -18,20 +33,5 @@
     "href": "PlaceMiudos/Professores/funcao.html",
     "title": "Professores - Função",
     "keywords": "Professores - Função Bla bla bla"
-  },
-  "PlaceMiudos/Professores/intro.html": {
-    "href": "PlaceMiudos/Professores/intro.html",
-    "title": "Professores - Introdução",
-    "keywords": "Professores - Introdução Bla bla bla"
-  },
-  "PlaceMiudos/Professores/horario.html": {
-    "href": "PlaceMiudos/Professores/horario.html",
-    "title": "Horário dos profs",
-    "keywords": "Horário dos profs Teste de horário!"
-  },
-  "Place21/batata.html": {
-    "href": "Place21/batata.html",
-    "title": "Cabaçljp",
-    "keywords": "Cabaçljp Olá!!!!!"
   }
 }
