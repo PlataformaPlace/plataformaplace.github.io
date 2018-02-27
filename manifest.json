@@ -1,0 +1,170 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/Dev/GitHub/PlaceDocs/PlaceDocs",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Place21/batata.md",
+      "output": {
+        ".html": {
+          "relative_path": "Place21/batata.html",
+          "hash": "z3nulyQrAQE10MnOkUKl5w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Place21/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "Place21/index.html",
+          "hash": "KV6FM6/iDBb2YXznlkeMIQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "Place21/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "Place21/toc.html",
+          "hash": "/nGAsDM5JGe8Df71DXbCUw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "PlaceMiudos/Professores/funcao.md",
+      "output": {
+        ".html": {
+          "relative_path": "PlaceMiudos/Professores/funcao.html",
+          "hash": "dWogRHXBUPc8ehI+NtrBNw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "PlaceMiudos/Professores/horario.md",
+      "output": {
+        ".html": {
+          "relative_path": "PlaceMiudos/Professores/horario.html",
+          "hash": "L+8jxl1c46XZ2xaeir+2pQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "PlaceMiudos/Professores/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "PlaceMiudos/Professores/intro.html",
+          "hash": "Cjx8s1ZbSiE6ZCTJ/1EZ9A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "PlaceMiudos/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "PlaceMiudos/index.html",
+          "hash": "uQAML/vftZQMPjRtDuDD8w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "PlaceMiudos/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "PlaceMiudos/toc.html",
+          "hash": "t6YsDm6zef9dgE5jO73ITg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "ADDslNCJ0F52TqRwCAHKhg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "pZ52XQWJdqr4nEqq+ez/3g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Disable incremental build by force rebuild option.",
+        "incrementalPhase": "build"
+      },
+      "processors": {
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build"
+        },
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build"
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing"
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
