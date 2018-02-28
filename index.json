@@ -1,37 +1,42 @@
 {
-  "PlaceMiudos/Professores/horario.html": {
-    "href": "PlaceMiudos/Professores/horario.html",
-    "title": "Horário dos profs",
-    "keywords": "Horário dos profs Teste de horário!"
-  },
-  "PlaceMiudos/Professores/intro.html": {
-    "href": "PlaceMiudos/Professores/intro.html",
-    "title": "Professores - Introdução",
-    "keywords": "Professores - Introdução Bla bla bla"
-  },
-  "index.html": {
-    "href": "index.html",
-    "title": "Documentação da plataforma PLACE.",
-    "keywords": "Documentação da plataforma PLACE . Documentação de referência para a utilização das funcionalidades da plataforma PLACE. Subtítulo Mais informações sobre o projeto..."
-  },
-  "PlaceMiudos/index.html": {
-    "href": "PlaceMiudos/index.html",
-    "title": "Documentação do PLACE Miúdos",
-    "keywords": "Documentação do PLACE Miúdos Bla bla bla Subsub Ble ble ble"
-  },
-  "Place21/batata.html": {
-    "href": "Place21/batata.html",
-    "title": "Cabaçljp",
-    "keywords": "Cabaçljp Olá!!!!!"
-  },
-  "Place21/index.html": {
-    "href": "Place21/index.html",
-    "title": "Documentação do PLACE 21",
+  "Docs/Place21/index.html": {
+    "href": "Docs/Place21/index.html",
+    "title": "Documentação do PLACE 21 | Docs Plataforma PLACE",
     "keywords": "Documentação do PLACE 21 Bla bla bla"
   },
-  "PlaceMiudos/Professores/funcao.html": {
-    "href": "PlaceMiudos/Professores/funcao.html",
-    "title": "Professores - Função",
+  "Docs/PlaceMiudos/Professores/funcao.html": {
+    "href": "Docs/PlaceMiudos/Professores/funcao.html",
+    "title": "Professores - Função | Docs Plataforma PLACE",
     "keywords": "Professores - Função Bla bla bla"
+  },
+  "Docs/Place21/batata.html": {
+    "href": "Docs/Place21/batata.html",
+    "title": "Cabaçljp | Docs Plataforma PLACE",
+    "keywords": "Cabaçljp Olá !!!!!! Olá, eu estou a testar Olá [ ] Olé [ ] [ ] [ ] Olá b <!--Olá novamente-->"
+  },
+  "Docs/PlaceMiudos/Professores/horario.html": {
+    "href": "Docs/PlaceMiudos/Professores/horario.html",
+    "title": "Horário dos profs | Docs Plataforma PLACE",
+    "keywords": "Horário dos profs Teste de horário!"
+  },
+  "Docs/demo.html": {
+    "href": "Docs/demo.html",
+    "title": "Cabeçalho nível 1 | Docs Plataforma PLACE",
+    "keywords": "Cabeçalho nível 1 Cabeçalho nível 2 Cabeçalho nível 3 Cabeçalho nível 4 Cabeçalho nível 5 Cabeçalho nível 6 Tabela Tables Are Cool col 3 está alinhado direita 1600€ col 2 está centrada 12€ linhas zebra são giras 1€ Linha separadora Olá, eu estou a testar Olá [ ] Olé [ ] [ ] [ ] Olá Note Teste de uma nota. <!--Olá novamente--> Definition list Is something people use sometimes. Markdown in HTML Does not work very well. Use HTML tags ."
+  },
+  "Docs/index.html": {
+    "href": "Docs/index.html",
+    "title": "Documentação da plataforma PLACE. | Docs Plataforma PLACE",
+    "keywords": "Documentação da plataforma PLACE . Documentação de referência para a utilização das funcionalidades da plataforma PLACE. Subtítulo Mais informações sobre o projeto..."
+  },
+  "Docs/PlaceMiudos/index.html": {
+    "href": "Docs/PlaceMiudos/index.html",
+    "title": "Documentação do PLACE Miúdos | Docs Plataforma PLACE",
+    "keywords": "Documentação do PLACE Miúdos Bla bla bla Subsub Ble ble ble"
+  },
+  "Docs/PlaceMiudos/Professores/intro.html": {
+    "href": "Docs/PlaceMiudos/Professores/intro.html",
+    "title": "Professores - Introdução | Docs Plataforma PLACE",
+    "keywords": "Professores - Introdução Bla bla bla"
   }
 }

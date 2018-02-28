@@ -14,11 +14,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "Place21/batata.md",
+      "source_relative_path": "Docs/Place21/batata.md",
       "output": {
         ".html": {
-          "relative_path": "Place21/batata.html",
-          "hash": "ZytqgVlm3eN8YcrQE++FrQ=="
+          "relative_path": "Docs/Place21/batata.html",
+          "hash": "iCnkGeAp1xhX4ZkU4x5f6A=="
         }
       },
       "is_incremental": false,
@@ -26,11 +26,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "Place21/index.md",
+      "source_relative_path": "Docs/Place21/index.md",
       "output": {
         ".html": {
-          "relative_path": "Place21/index.html",
-          "hash": "v18Lsaj8w141o8mrW9xwXg=="
+          "relative_path": "Docs/Place21/index.html",
+          "hash": "fsES9etnhv6AFpmo9kkjBQ=="
         }
       },
       "is_incremental": false,
@@ -38,10 +38,10 @@
     },
     {
       "type": "Toc",
-      "source_relative_path": "Place21/toc.md",
+      "source_relative_path": "Docs/Place21/toc.md",
       "output": {
         ".html": {
-          "relative_path": "Place21/toc.html",
+          "relative_path": "Docs/Place21/toc.html",
           "hash": "9lmLPebgJFjRKRrR8fxPlg=="
         }
       },
@@ -50,11 +50,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "PlaceMiudos/Professores/funcao.md",
+      "source_relative_path": "Docs/PlaceMiudos/Professores/funcao.md",
       "output": {
         ".html": {
-          "relative_path": "PlaceMiudos/Professores/funcao.html",
-          "hash": "hoiP+G6YTvTOM9q0tihB8Q=="
+          "relative_path": "Docs/PlaceMiudos/Professores/funcao.html",
+          "hash": "K8U3S6JOlKMoOnwI9wd4tQ=="
         }
       },
       "is_incremental": false,
@@ -62,11 +62,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "PlaceMiudos/Professores/horario.md",
+      "source_relative_path": "Docs/PlaceMiudos/Professores/horario.md",
       "output": {
         ".html": {
-          "relative_path": "PlaceMiudos/Professores/horario.html",
-          "hash": "kvIqiOf9ZsYQ8tSErDt51Q=="
+          "relative_path": "Docs/PlaceMiudos/Professores/horario.html",
+          "hash": "Fc8kwdN46XnXde3rGX3CHA=="
         }
       },
       "is_incremental": false,
@@ -74,11 +74,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "PlaceMiudos/Professores/intro.md",
+      "source_relative_path": "Docs/PlaceMiudos/Professores/intro.md",
       "output": {
         ".html": {
-          "relative_path": "PlaceMiudos/Professores/intro.html",
-          "hash": "VcqskNVj1ZJdDOWtLpS6wA=="
+          "relative_path": "Docs/PlaceMiudos/Professores/intro.html",
+          "hash": "AbLTfN4t+yD/jQO5nQ31yA=="
         }
       },
       "is_incremental": false,
@@ -86,11 +86,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "PlaceMiudos/index.md",
+      "source_relative_path": "Docs/PlaceMiudos/index.md",
       "output": {
         ".html": {
-          "relative_path": "PlaceMiudos/index.html",
-          "hash": "ZalYWKs6zuL4bLR0aXZVNA=="
+          "relative_path": "Docs/PlaceMiudos/index.html",
+          "hash": "VHNbpuJ7MTHS5leOpRlC1A=="
         }
       },
       "is_incremental": false,
@@ -98,10 +98,10 @@
     },
     {
       "type": "Toc",
-      "source_relative_path": "PlaceMiudos/toc.md",
+      "source_relative_path": "Docs/PlaceMiudos/toc.md",
       "output": {
         ".html": {
-          "relative_path": "PlaceMiudos/toc.html",
+          "relative_path": "Docs/PlaceMiudos/toc.html",
           "hash": "yYBOUhF+8cB/BqTf7Ied5g=="
         }
       },
@@ -109,12 +109,27 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidYamlHeader"
+      ],
       "type": "Conceptual",
-      "source_relative_path": "index.md",
+      "source_relative_path": "Docs/demo.md",
       "output": {
         ".html": {
-          "relative_path": "index.html",
-          "hash": "lgF5FrdrDU70xhhLCrbpZA=="
+          "relative_path": "Docs/demo.html",
+          "hash": "Y6QmkOrrEEp3ZBrngt1oaA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Docs/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "Docs/index.html",
+          "hash": "owIjf2aBLq1vOsVoecOCAA=="
         }
       },
       "is_incremental": false,
@@ -122,11 +137,44 @@
     },
     {
       "type": "Toc",
-      "source_relative_path": "toc.yml",
+      "source_relative_path": "Docs/toc.yml",
       "output": {
         ".html": {
-          "relative_path": "toc.html",
+          "relative_path": "Docs/toc.html",
           "hash": "X3Gi3/zsp7opU65sAXKIJA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/favicon.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/favicon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/global/logop21.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/global/logop21.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/global/logopm.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/global/logopm.png"
         }
       },
       "is_incremental": false,
@@ -141,6 +189,11 @@
         "incrementalPhase": "build"
       },
       "processors": {
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build"
+        },
         "TocDocumentProcessor": {
           "can_incremental": false,
           "details": "Processor TocDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
