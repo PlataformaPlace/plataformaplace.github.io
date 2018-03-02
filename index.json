@@ -1,42 +1,107 @@
 {
-  "Docs/Place21/index.html": {
-    "href": "Docs/Place21/index.html",
-    "title": "Documentação do PLACE 21 | Docs Plataforma PLACE",
-    "keywords": "Documentação do PLACE 21 Bla bla bla"
+  "Place21/Escola/Importacoesdedados.html": {
+    "href": "Place21/Escola/Importacoesdedados.html",
+    "title": "Markdown file | Docs Plataforma PLACE",
+    "keywords": "Markdown file"
   },
-  "Docs/PlaceMiudos/Professores/funcao.html": {
-    "href": "Docs/PlaceMiudos/Professores/funcao.html",
+  "Place21/Escola/Recursos da escola.html": {
+    "href": "Place21/Escola/Recursos da escola.html",
+    "title": "Markdown file | Docs Plataforma PLACE",
+    "keywords": "Markdown file"
+  },
+  "PlaceMiudos/Alunos/Acaosocial.html": {
+    "href": "PlaceMiudos/Alunos/Acaosocial.html",
+    "title": "Ação Social | Docs Plataforma PLACE",
+    "keywords": "Ação Social A Ação Social Escolar (ASE) Resume-se a um conjunto de medidas destinadas a garantir a igualdade de oportunidades de acesso e sucesso escolares a todos os alunos e a promover medidas de apoio socioeducativo destinadas aos alunos de agregados familiares cuja situação económica determina a necessidade de comparticipações financeiras Direção-Geral de Educação Pagamentos Quando abordamos o tema ação social , mencionamos diretamente os pagamentos a efetuar nos estabelicimentos de ensino por parte dos alunos. Para tal, existe determinados passos a seguir para que o procedimento seja feito corretamente: 1º Passo: Na matrícula do aluno, colocar a data de ínico de frequência 2º Passo: No separador ASE , atribuir o escalão de abono do aluno, comprovado pela Segurança Social da Madeira. 3º Passo: No separador Pagamentos deve preencher a grelha do mês (Onde refere os dias da semana que o aluno almoça na escola) e grava. Depois deve clicar Retificar mês atual . No início do ano letivo, as escolas devem juntar aos pagamentos a inscrição e o seguro Escolar . Aviso Caso o aluno seja transferido de escola, não paga novamente a inscrição e o seguro escolar. Caso o aluno entre na escola no decorrer do ano letivo, a escola deve fazer o processo de pagamento de inscrição e de seguro escolar manualmente: No separador pagamentos deve clicar em \"adicionar item de pagamento\" e selecionar inscrição e seguro escolar. Presenças na cantina Quando abordamos a ação social, ligamos automáticamente aos pagamentos e as faltas por mês. Aviso Que tipo de faltas existem? E quando devem ser marcadas? No separador alunos deve clicar em faltas por mês. Pode constar que existem 4 tipos de faltas: Tabela Tipo de faltas Quando marcar Horário Pagamentos Avisadas São faltas avisadas com antecedência marcar até às 16:30 do dia anterior Será descontada na mensalidade no mês seguinte Não avisadas São faltas que não foram avisadas previamente ---- Esc. 1 paga o valor da refeição. Outros escalões não têm retorno do valor pago. Imprevistas Faltas avisadas com pouca antecedência das 16:30 do dia anterior até ao meio dia do próprio dia Valor será descontado no mês seguinte. Não previstas são giras 1€"
+  },
+  "PlaceMiudos/Alunos/turmas.html": {
+    "href": "PlaceMiudos/Alunos/turmas.html",
+    "title": "Turmas | Docs Plataforma PLACE",
+    "keywords": "Turmas Sem que for solicitado uma nova inscrição na Plataforma Place, as escolas devem sempre atribuir uma turma ou sala a cada criança. Aviso Os alunos inscritos no Ensino Recorrente devem constar numa turma. Evite ter alunos sem turma no separador dos alunos."
+  },
+  "PlaceMiudos/Docentes/intro.html": {
+    "href": "PlaceMiudos/Docentes/intro.html",
+    "title": "Professores - Introdução | Docs Plataforma PLACE",
+    "keywords": "Professores - Introdução Bla bla bla"
+  },
+  "Place21/index.html": {
+    "href": "Place21/index.html",
+    "title": "PLACE 21 | Docs Plataforma PLACE",
+    "keywords": "PLACE 21 A plataforma PLACE consiste numa diversidade de serviços e recursos destinados à Comunidade Educativa da Região Autónoma da Madeira, sobretudo ao nível da disponibilização de diversas aplicações web com vista a facilitar o processo de gestão escolar. Objetivo da aplicação Ajudar as escolas, fornecendo informações úteis para gestão correta das informações contidas no PLACE e promover uma partilha de informação entre os intervenientes no processo educativo na RAM."
+  },
+  "Place21/Alunos/matrícula.html": {
+    "href": "Place21/Alunos/matrícula.html",
+    "title": "Markdown file | Docs Plataforma PLACE",
+    "keywords": "Markdown file"
+  },
+  "Place21/Alunos/mudancacurso.html": {
+    "href": "Place21/Alunos/mudancacurso.html",
+    "title": "Markdown file | Docs Plataforma PLACE",
+    "keywords": "Markdown file"
+  },
+  "Place21/Docentes/index.html": {
+    "href": "Place21/Docentes/index.html",
+    "title": "Markdown file | Docs Plataforma PLACE",
+    "keywords": "Markdown file"
+  },
+  "Place21/Escola/Interrupcoesletivas.html": {
+    "href": "Place21/Escola/Interrupcoesletivas.html",
+    "title": "Markdown file | Docs Plataforma PLACE",
+    "keywords": "Markdown file"
+  },
+  "PlaceMiudos/index.html": {
+    "href": "PlaceMiudos/index.html",
+    "title": "PLACE Miúdos | Docs Plataforma PLACE",
+    "keywords": "PLACE Miúdos A plataforma PLACE consiste numa diversidade de serviços e recursos destinados à Comunidade Educativa da Região Autónoma da Madeira, sobretudo ao nível da disponibilização de diversas aplicações web com vista a facilitar o processo de gestão escolar. Objetivo da aplicação Ajudar as escolas, fornecendo informações úteis para gestão correta das informações contidas no PLACE e promover uma partilha de informação entre os intervenientes no processo educativo na RAM"
+  },
+  "PlaceMiudos/Alunos/inscricoes.html": {
+    "href": "PlaceMiudos/Alunos/inscricoes.html",
+    "title": "Inscrições | Docs Plataforma PLACE",
+    "keywords": "Inscrições As inscrições para novas crianças devem ser solicitadas à Divisão de Informação Educativa (Place), mencionando as seguintes informações: Nome completo Data de Nascimento Nº de identificação (Cartão de cidadão) e Nº de controlo Aviso Ter a atenção as inscrições solicitadas com possiveis datas de nascimento e com números de identificação dos pais . Devem evitar estas situações, uma vez que quando têm os dados corretos da criança e pedem nova inscrição, esta fica duplicada no sistema. Para fazer inscrições de crianças com idades inferiores a cinco meses de idade deve solicitar uma autização à DRE ( Portaria 56/2011 )"
+  },
+  "PlaceMiudos/Docentes/funcao.html": {
+    "href": "PlaceMiudos/Docentes/funcao.html",
     "title": "Professores - Função | Docs Plataforma PLACE",
     "keywords": "Professores - Função Bla bla bla"
   },
-  "Docs/Place21/batata.html": {
-    "href": "Docs/Place21/batata.html",
-    "title": "Cabaçljp | Docs Plataforma PLACE",
-    "keywords": "Cabaçljp Olá !!!!!! Olá, eu estou a testar Olá [ ] Olé [ ] [ ] [ ] Olá b <!--Olá novamente-->"
+  "index.html": {
+    "href": "index.html",
+    "title": "Documentação da plataforma PLACE. | Docs Plataforma PLACE",
+    "keywords": "Documentação da plataforma PLACE . Documentação de referência para a utilização das funcionalidades da plataforma PLACE. Subtítulo Mais informações sobre o projeto... Olá!!!!!"
   },
-  "Docs/PlaceMiudos/Professores/horario.html": {
-    "href": "Docs/PlaceMiudos/Professores/horario.html",
+  "demo.html": {
+    "href": "demo.html",
+    "title": "Cabeçalho nível 1 | Docs Plataforma PLACE",
+    "keywords": "Cabeçalho nível 1 Cabeçalho nível 2 Cabeçalho nível 3 Cabeçalho nível 4 Cabeçalho nível 5 Cabeçalho nível 6 Inscriçoes antes dos cinco meses de idade , deve pedir autorização à DRE . Inscriçoes antes dos cinco meses de idade, deve pedir autorização à DRE. Inscriçoes antes dos cinco meses de idade, deve pedir autorização à DRE. ( portaria 55/2018 ) ponto 1 efe efef Nota Teste de uma nota. Aviso Teste de uma aviso. Dica Teste de uma nota. Aviso Teste de uma nota. Aviso Teste de uma nota. Aviso Teste de uma nota. [x] Ponto 1 [ ] Ponto 2 [ ] Ponto 3 Tabela Tables Are Cool col 3 está alinhado direita 1600€ col 2 está centrada 12€ linhas zebra são giras 1€ Linha separadora Olá, eu estou a testar Olá [x] Olé [x] [x] [ ] Olá Nota Teste de uma nota. Aviso Teste de um aviso. Dica Teste de uma dica. Importante Teste de um destaque importante. Aten��o Teste de um aviso. <!--Olá novamente--> Definition list Is something people use sometimes. Markdown in HTML Does not work very well. Use HTML tags . Olá!!!"
+  },
+  "Place21/Alunos/index.html": {
+    "href": "Place21/Alunos/index.html",
+    "title": "Markdown file | Docs Plataforma PLACE",
+    "keywords": "Markdown file"
+  },
+  "Place21/Docentes/Horários.html": {
+    "href": "Place21/Docentes/Horários.html",
+    "title": "Markdown file | Docs Plataforma PLACE",
+    "keywords": "Markdown file"
+  },
+  "PlaceMiudos/Alunos/transferencias.html": {
+    "href": "PlaceMiudos/Alunos/transferencias.html",
+    "title": "Transferências | Docs Plataforma PLACE",
+    "keywords": "Transferências As transferências de alunos entre escolas na RAM é possivel. O pedido de transferência deve ser feito à Divisão de Informação Educativa e deve fornecer os seguintes dados: Nome completo da criança Data de nascimento último dia de frequência na escola Nome da Escola a ser transferida Primeiro dia de frequência na nova escola Aviso Não é possível mudar de valência na educação pré-escolar ao longo do ano letivo. Segundo a Portaria 265/2016 uma criança que esteja a frequentar a Creche, não pode pedir transferência para o Jardim de Infância ao longo do ano letivo. Deve manter-se na valência que iniciou até ao final o ano. No entanto, é importante salientar que existem dois tipos de transferências: Entre Públicos Quando a transferência é feita entre duas escolas públicas, a informação de uma escola passa para a outra, nomeadamente no que diz respeito aos pagamentos. Caso o aluno tenha algum valor por pagar ou para receber, feito a transferencia, as contam mantem-se na escola de transferêcia. Aviso A escola que recebe a criança deve fazer Retificar mês atual, para que as contas sejam atualizadas. Entre Público - Privado Se a transferência da criança for de uma escola privada para uma escola pública, os pagamentos não passam de uma escola para outra. As contas devem ser liquidadas em cada escola separadamente."
+  },
+  "PlaceMiudos/Docentes/horario.html": {
+    "href": "PlaceMiudos/Docentes/horario.html",
     "title": "Horário dos profs | Docs Plataforma PLACE",
     "keywords": "Horário dos profs Teste de horário!"
   },
-  "Docs/demo.html": {
-    "href": "Docs/demo.html",
-    "title": "Cabeçalho nível 1 | Docs Plataforma PLACE",
-    "keywords": "Cabeçalho nível 1 Cabeçalho nível 2 Cabeçalho nível 3 Cabeçalho nível 4 Cabeçalho nível 5 Cabeçalho nível 6 Tabela Tables Are Cool col 3 está alinhado direita 1600€ col 2 está centrada 12€ linhas zebra são giras 1€ Linha separadora Olá, eu estou a testar Olá [ ] Olé [ ] [ ] [ ] Olá Note Teste de uma nota. <!--Olá novamente--> Definition list Is something people use sometimes. Markdown in HTML Does not work very well. Use HTML tags ."
+  "Place21/Escola/exportacoesdedados.html": {
+    "href": "Place21/Escola/exportacoesdedados.html",
+    "title": "Markdown file | Docs Plataforma PLACE",
+    "keywords": "Markdown file"
   },
-  "Docs/index.html": {
-    "href": "Docs/index.html",
-    "title": "Documentação da plataforma PLACE. | Docs Plataforma PLACE",
-    "keywords": "Documentação da plataforma PLACE . Documentação de referência para a utilização das funcionalidades da plataforma PLACE. Subtítulo Mais informações sobre o projeto..."
-  },
-  "Docs/PlaceMiudos/index.html": {
-    "href": "Docs/PlaceMiudos/index.html",
-    "title": "Documentação do PLACE Miúdos | Docs Plataforma PLACE",
-    "keywords": "Documentação do PLACE Miúdos Bla bla bla Subsub Ble ble ble"
-  },
-  "Docs/PlaceMiudos/Professores/intro.html": {
-    "href": "Docs/PlaceMiudos/Professores/intro.html",
-    "title": "Professores - Introdução | Docs Plataforma PLACE",
-    "keywords": "Professores - Introdução Bla bla bla"
+  "PlaceMiudos/Alunos/index.html": {
+    "href": "PlaceMiudos/Alunos/index.html",
+    "title": "Alunos | Docs Plataforma PLACE",
+    "keywords": "Alunos \" Historicamente, a educação tem sido assumida, na RAM, como prioridade no processo social de humanização das pessoas, com vista ao desenvolvimento contínuo da autonomia individual, princípio transformador das liberdades individuais e de capacitação de cidadãos participativos numa sociedade qualificada e desenvolvida.\" Portaria 265/2016"
   }
 }
