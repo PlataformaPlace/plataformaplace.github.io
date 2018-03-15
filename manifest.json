@@ -14,11 +14,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "Place21/Alunos/index.md",
+      "source_relative_path": "Place21/Alunos/Renovacoes.md",
       "output": {
         ".html": {
-          "relative_path": "Place21/Alunos/index.html",
-          "hash": "0gAdrgXEawGiGbLy9fXX6Q=="
+          "relative_path": "Place21/Alunos/Renovacoes.html",
+          "hash": "efhOazg2a5qcVVReQdOXdA=="
         }
       },
       "is_incremental": false,
@@ -26,11 +26,35 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "Place21/Alunos/matrícula.md",
+      "source_relative_path": "Place21/Alunos/faltas.md",
       "output": {
         ".html": {
-          "relative_path": "Place21/Alunos/matrícula.html",
-          "hash": "+HGGj0yuPn2805Ya/0bcfw=="
+          "relative_path": "Place21/Alunos/faltas.html",
+          "hash": "krdArZd/ZARD+AnKgvCSCA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Place21/Alunos/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "Place21/Alunos/index.html",
+          "hash": "l/9fdVmPaXyTtmh7wS6/Tg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Place21/Alunos/matricula.md",
+      "output": {
+        ".html": {
+          "relative_path": "Place21/Alunos/matricula.html",
+          "hash": "3qihWSDP8fH/rGr0HsXl/Q=="
         }
       },
       "is_incremental": false,
@@ -42,7 +66,7 @@
       "output": {
         ".html": {
           "relative_path": "Place21/Alunos/mudancacurso.html",
-          "hash": "XGy6d0vTTrzwElfqhjgYhA=="
+          "hash": "d0Yga9toCRfWudRS7ZFp0Q=="
         }
       },
       "is_incremental": false,
@@ -50,11 +74,23 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "Place21/Docentes/Horários.md",
+      "source_relative_path": "Place21/Docentes/Faltas.md",
       "output": {
         ".html": {
-          "relative_path": "Place21/Docentes/Horários.html",
-          "hash": "jRnm4i+eOnu4BQE8sQx+Ow=="
+          "relative_path": "Place21/Docentes/Faltas.html",
+          "hash": "/x/RwxYbKOXn4NhlVal6EA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Place21/Docentes/Horarios.md",
+      "output": {
+        ".html": {
+          "relative_path": "Place21/Docentes/Horarios.html",
+          "hash": "ucfNBEoFk6ZEfouRZt4y3A=="
         }
       },
       "is_incremental": false,
@@ -66,7 +102,19 @@
       "output": {
         ".html": {
           "relative_path": "Place21/Docentes/index.html",
-          "hash": "VUxg8ulEWcYEsOXO4ws1/Q=="
+          "hash": "XUxzOZNH26j5ZR8P0BjvFA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Place21/Docentes/sumarios.md",
+      "output": {
+        ".html": {
+          "relative_path": "Place21/Docentes/sumarios.html",
+          "hash": "Y/hF/MUftlzrMR1EldqC1g=="
         }
       },
       "is_incremental": false,
@@ -78,7 +126,7 @@
       "output": {
         ".html": {
           "relative_path": "Place21/Escola/Importacoesdedados.html",
-          "hash": "GMozpMG9xM/sK5VvEfij2g=="
+          "hash": "J3ui9UT4c7Bfpc3rYB9JqA=="
         }
       },
       "is_incremental": false,
@@ -90,7 +138,7 @@
       "output": {
         ".html": {
           "relative_path": "Place21/Escola/Interrupcoesletivas.html",
-          "hash": "UGI2C5CCcu5bcFqRX6bqlw=="
+          "hash": "1pvcNxyzBKeChRw+rypoBw=="
         }
       },
       "is_incremental": false,
@@ -98,11 +146,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "Place21/Escola/Recursos da escola.md",
+      "source_relative_path": "Place21/Escola/Recursosdaescola.md",
       "output": {
         ".html": {
-          "relative_path": "Place21/Escola/Recursos da escola.html",
-          "hash": "GzsheACKP5DaLylbXdCtXw=="
+          "relative_path": "Place21/Escola/Recursosdaescola.html",
+          "hash": "MMqo+cvdSaOag1X09DSOUw=="
         }
       },
       "is_incremental": false,
@@ -114,7 +162,19 @@
       "output": {
         ".html": {
           "relative_path": "Place21/Escola/exportacoesdedados.html",
-          "hash": "KY4gv5kRMLnMbRAzYpG+Ng=="
+          "hash": "a7iVuZ8VuHqECzuWvORfcQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Place21/Escola/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "Place21/Escola/index.html",
+          "hash": "Va8Dl/UVLfQmvlCYyXU5Tg=="
         }
       },
       "is_incremental": false,
@@ -126,22 +186,19 @@
       "output": {
         ".html": {
           "relative_path": "Place21/index.html",
-          "hash": "1KypZpa1T8pH+6hHDupNMw=="
+          "hash": "RtHGfhfnzub6rWY7nfoPpg=="
         }
       },
       "is_incremental": false,
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Toc",
       "source_relative_path": "Place21/toc.md",
       "output": {
         ".html": {
           "relative_path": "Place21/toc.html",
-          "hash": "mNAeQHI8y/8RUZCS5dymXA=="
+          "hash": "Z239+YZmTVrgmkS3VpZu/A=="
         }
       },
       "is_incremental": false,
@@ -153,7 +210,19 @@
       "output": {
         ".html": {
           "relative_path": "PlaceMiudos/Alunos/Acaosocial.html",
-          "hash": "psQIYu08fsZ01gdUFCUGTA=="
+          "hash": "uKaI0jAYGX84ljuHRHON4g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "PlaceMiudos/Alunos/Renovacoes.md",
+      "output": {
+        ".html": {
+          "relative_path": "PlaceMiudos/Alunos/Renovacoes.html",
+          "hash": "h1eJPiUm2nA9j9bbxivlMA=="
         }
       },
       "is_incremental": false,
@@ -177,7 +246,7 @@
       "output": {
         ".html": {
           "relative_path": "PlaceMiudos/Alunos/inscricoes.html",
-          "hash": "1JxoajmwcIX8vgPXXXDCSw=="
+          "hash": "5ruNOarjl2Zjxr7/JnVDoA=="
         }
       },
       "is_incremental": false,
@@ -189,7 +258,7 @@
       "output": {
         ".html": {
           "relative_path": "PlaceMiudos/Alunos/transferencias.html",
-          "hash": "vCricVjaDpNhzFhLzre+4A=="
+          "hash": "yDxkLCW4I9yz/WKv91uohA=="
         }
       },
       "is_incremental": false,
@@ -201,7 +270,7 @@
       "output": {
         ".html": {
           "relative_path": "PlaceMiudos/Alunos/turmas.html",
-          "hash": "tZI4nHCyyBOOk4ZeB39T4A=="
+          "hash": "MTYvp86fTvS3N4xghEygZQ=="
         }
       },
       "is_incremental": false,
@@ -209,11 +278,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "PlaceMiudos/Docentes/funcao.md",
+      "source_relative_path": "PlaceMiudos/Docentes/Sumarios.md",
       "output": {
         ".html": {
-          "relative_path": "PlaceMiudos/Docentes/funcao.html",
-          "hash": "H5AF/SwTpJW3WLcSYuHl8A=="
+          "relative_path": "PlaceMiudos/Docentes/Sumarios.html",
+          "hash": "wzi7uhfxWDayeEthqWhuFQ=="
         }
       },
       "is_incremental": false,
@@ -225,7 +294,7 @@
       "output": {
         ".html": {
           "relative_path": "PlaceMiudos/Docentes/horario.html",
-          "hash": "XLn2J/zi/7gKD0vfqemgxA=="
+          "hash": "WCKbM77SwXWml+Q3ywRPjQ=="
         }
       },
       "is_incremental": false,
@@ -233,11 +302,71 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "PlaceMiudos/Docentes/intro.md",
+      "source_relative_path": "PlaceMiudos/Docentes/index.md",
       "output": {
         ".html": {
-          "relative_path": "PlaceMiudos/Docentes/intro.html",
-          "hash": "R0VP7uL+IyeINB772sFt1g=="
+          "relative_path": "PlaceMiudos/Docentes/index.html",
+          "hash": "07RfubbOKbOJMfgBj9wtFA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "PlaceMiudos/Escola/Exportacoes.md",
+      "output": {
+        ".html": {
+          "relative_path": "PlaceMiudos/Escola/Exportacoes.html",
+          "hash": "my/XzY2N7wGRd1Dugt0j0A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "PlaceMiudos/Escola/Recursosdaescola.md",
+      "output": {
+        ".html": {
+          "relative_path": "PlaceMiudos/Escola/Recursosdaescola.html",
+          "hash": "dRLpGqUSM8fhVqG99JXzTA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "PlaceMiudos/Escola/Relatorios.md",
+      "output": {
+        ".html": {
+          "relative_path": "PlaceMiudos/Escola/Relatorios.html",
+          "hash": "UbjcjZvr2j9KcMs/u6V+eQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "PlaceMiudos/Escola/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "PlaceMiudos/Escola/index.html",
+          "hash": "s+3FpEeJ7HTXdsUcoHBRJw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "PlaceMiudos/Escola/interrupcoesletivas.md",
+      "output": {
+        ".html": {
+          "relative_path": "PlaceMiudos/Escola/interrupcoesletivas.html",
+          "hash": "L/VPx3skrhPOGCg0srO2Kw=="
         }
       },
       "is_incremental": false,
@@ -249,7 +378,7 @@
       "output": {
         ".html": {
           "relative_path": "PlaceMiudos/index.html",
-          "hash": "JCOXME4ABCLQbjYD4Un7jA=="
+          "hash": "TEfUf7cqTn1YjtUd8xbwww=="
         }
       },
       "is_incremental": false,
@@ -261,7 +390,7 @@
       "output": {
         ".html": {
           "relative_path": "PlaceMiudos/toc.html",
-          "hash": "fmgMHQRlLVPNlBIeA4lW7w=="
+          "hash": "VPoMrYxVgMcCEl9naAMAUA=="
         }
       },
       "is_incremental": false,
@@ -285,10 +414,230 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/Place21/Alunos/Exportacoesalunos.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/Place21/Alunos/Exportacoesalunos.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Place21/Alunos/Gerarocorrencias.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/Place21/Alunos/Gerarocorrencias.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Place21/Alunos/consulta.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/Place21/Alunos/consulta.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Place21/Alunos/dadosdaescola.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/Place21/Alunos/dadosdaescola.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Place21/Alunos/desconsiderarfaltas.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/Place21/Alunos/desconsiderarfaltas.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Place21/Alunos/exportacoesprof.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/Place21/Alunos/exportacoesprof.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Place21/Alunos/exportações.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/Place21/Alunos/exportações.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Place21/Alunos/faltas.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/Place21/Alunos/faltas.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Place21/Alunos/faltasdocentes.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/Place21/Alunos/faltasdocentes.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Place21/Alunos/ficheirosnotas.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/Place21/Alunos/ficheirosnotas.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Place21/Alunos/horario.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/Place21/Alunos/horario.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Place21/Alunos/importacaonotas.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/Place21/Alunos/importacaonotas.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Place21/Alunos/importacaorb.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/Place21/Alunos/importacaorb.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Place21/Alunos/matricula21.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/Place21/Alunos/matricula21.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Place21/Alunos/menu.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/Place21/Alunos/menu.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Place21/Alunos/mudardecurso.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/Place21/Alunos/mudardecurso.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Place21/Alunos/mudardecursof.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/Place21/Alunos/mudardecursof.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Place21/Alunos/place21.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/Place21/Alunos/place21.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/Place21/Alunos/scary_mask-512.png",
       "output": {
         "resource": {
           "relative_path": "images/Place21/Alunos/scary_mask-512.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Place21/Alunos/sumarios.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/Place21/Alunos/sumarios.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/PlaceMiudos/Alunos/Horariosdocentes.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/PlaceMiudos/Alunos/Horariosdocentes.PNG"
         }
       },
       "is_incremental": false,
@@ -307,10 +656,109 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/PlaceMiudos/Alunos/cargos.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/PlaceMiudos/Alunos/cargos.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/PlaceMiudos/Alunos/exportacoes.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/PlaceMiudos/Alunos/exportacoes.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/PlaceMiudos/Alunos/inqueritos.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/PlaceMiudos/Alunos/inqueritos.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/PlaceMiudos/Alunos/interrupcoes.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/PlaceMiudos/Alunos/interrupcoes.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/PlaceMiudos/Alunos/placemiudos.PNG",
       "output": {
         "resource": {
           "relative_path": "images/PlaceMiudos/Alunos/placemiudos.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/PlaceMiudos/Alunos/presencas.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/PlaceMiudos/Alunos/presencas.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/PlaceMiudos/Alunos/recursoscompletos.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/PlaceMiudos/Alunos/recursoscompletos.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/PlaceMiudos/Alunos/recursosmiudos.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/PlaceMiudos/Alunos/recursosmiudos.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/PlaceMiudos/Alunos/relatorios.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/PlaceMiudos/Alunos/relatorios.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/PlaceMiudos/Alunos/sumariosmiudos.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/PlaceMiudos/Alunos/sumariosmiudos.PNG"
         }
       },
       "is_incremental": false,
@@ -355,7 +803,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "WRFwZorehM/xdUrOdN1Jtw=="
+          "hash": "6UhomMBrtaeIuapjXNEoDw=="
         }
       },
       "is_incremental": false,
@@ -382,11 +830,6 @@
         "incrementalPhase": "build"
       },
       "processors": {
-        "TocDocumentProcessor": {
-          "can_incremental": false,
-          "details": "Processor TocDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
-          "incrementalPhase": "build"
-        },
         "ResourceDocumentProcessor": {
           "can_incremental": false,
           "details": "Processor ResourceDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
@@ -394,6 +837,11 @@
         },
         "ConceptualDocumentProcessor": {
           "can_incremental": false,
+          "incrementalPhase": "build"
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
           "incrementalPhase": "build"
         }
       }
