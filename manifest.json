@@ -458,15 +458,14 @@
     },
     {
       "log_codes": [
-        "InvalidYamlHeader",
-        "InvalidFileLink"
+        "InvalidYamlHeader"
       ],
       "type": "Conceptual",
       "source_relative_path": "demo.md",
       "output": {
         ".html": {
           "relative_path": "demo.html",
-          "hash": "e2wNQ2MHxh8L1Cnvs6mGxw=="
+          "hash": "US4glU+S8L144zr02Hwr3Q=="
         }
       },
       "is_incremental": false,
@@ -1077,6 +1076,11 @@
         "incrementalPhase": "build"
       },
       "processors": {
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build"
+        },
         "TocDocumentProcessor": {
           "can_incremental": false,
           "details": "Processor TocDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
@@ -1084,11 +1088,6 @@
         },
         "ConceptualDocumentProcessor": {
           "can_incremental": false,
-          "incrementalPhase": "build"
-        },
-        "ResourceDocumentProcessor": {
-          "can_incremental": false,
-          "details": "Processor ResourceDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
           "incrementalPhase": "build"
         }
       }
