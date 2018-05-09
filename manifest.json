@@ -18,7 +18,7 @@
       "output": {
         ".html": {
           "relative_path": "Place21/Alunos/Renovacoes.html",
-          "hash": "efhOazg2a5qcVVReQdOXdA=="
+          "hash": "r5NXBGWihXiJE6SXVa0sxA=="
         }
       },
       "is_incremental": false,
@@ -30,7 +30,7 @@
       "output": {
         ".html": {
           "relative_path": "Place21/Alunos/faltas.html",
-          "hash": "krdArZd/ZARD+AnKgvCSCA=="
+          "hash": "Aly3mJQsF6IjgWBvj9iKqA=="
         }
       },
       "is_incremental": false,
@@ -54,7 +54,7 @@
       "output": {
         ".html": {
           "relative_path": "Place21/Alunos/matricula.html",
-          "hash": "3qihWSDP8fH/rGr0HsXl/Q=="
+          "hash": "makM8jucWV5le+hgKE4+rw=="
         }
       },
       "is_incremental": false,
@@ -74,11 +74,35 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "Place21/Alunos/ofertaformativa.md",
+      "output": {
+        ".html": {
+          "relative_path": "Place21/Alunos/ofertaformativa.html",
+          "hash": "Bemf8n9+RiapgqiFL44tPw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Place21/Alunos/preinscricoes9ano.md",
+      "output": {
+        ".html": {
+          "relative_path": "Place21/Alunos/preinscricoes9ano.html",
+          "hash": "iCdAwMWAHDjRFHN0m0n64g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "Place21/Docentes/Faltas.md",
       "output": {
         ".html": {
           "relative_path": "Place21/Docentes/Faltas.html",
-          "hash": "/x/RwxYbKOXn4NhlVal6EA=="
+          "hash": "4kOrdWWDPaJBe+kTNVgOqw=="
         }
       },
       "is_incremental": false,
@@ -114,7 +138,31 @@
       "output": {
         ".html": {
           "relative_path": "Place21/Docentes/sumarios.html",
-          "hash": "Y/hF/MUftlzrMR1EldqC1g=="
+          "hash": "vapWINjV1ZRtLkPiLk8FpQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Place21/Encarregadodeeducacao/acessoaoplace.md",
+      "output": {
+        ".html": {
+          "relative_path": "Place21/Encarregadodeeducacao/acessoaoplace.html",
+          "hash": "7cBPb94eOlQf8JSDbahufg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Place21/Encarregadodeeducacao/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "Place21/Encarregadodeeducacao/index.html",
+          "hash": "dUaAnhDrn7TpxLHua6geMQ=="
         }
       },
       "is_incremental": false,
@@ -150,7 +198,7 @@
       "output": {
         ".html": {
           "relative_path": "Place21/Escola/Recursosdaescola.html",
-          "hash": "MMqo+cvdSaOag1X09DSOUw=="
+          "hash": "8NHwsYcGH5vrj6qBjeQwtQ=="
         }
       },
       "is_incremental": false,
@@ -162,7 +210,7 @@
       "output": {
         ".html": {
           "relative_path": "Place21/Escola/exportacoesdedados.html",
-          "hash": "a7iVuZ8VuHqECzuWvORfcQ=="
+          "hash": "mkGI4LkpSZCeutwey4pA5A=="
         }
       },
       "is_incremental": false,
@@ -182,11 +230,23 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "Place21/Escola/ofertaformativa.md",
+      "output": {
+        ".html": {
+          "relative_path": "Place21/Escola/ofertaformativa.html",
+          "hash": "ficEGtOzRB4YAZVM9h/JEQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "Place21/index.md",
       "output": {
         ".html": {
           "relative_path": "Place21/index.html",
-          "hash": "RtHGfhfnzub6rWY7nfoPpg=="
+          "hash": "YoF9Nj6U623HLXPby4tg6w=="
         }
       },
       "is_incremental": false,
@@ -198,7 +258,7 @@
       "output": {
         ".html": {
           "relative_path": "Place21/toc.html",
-          "hash": "Z239+YZmTVrgmkS3VpZu/A=="
+          "hash": "UyJ+cYz2ZKhbBs0ok6/3/Q=="
         }
       },
       "is_incremental": false,
@@ -414,6 +474,39 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/Place21/Alunos/Clicarcomparar.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/Place21/Alunos/Clicarcomparar.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Place21/Alunos/Cursosofertaforativa.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/Place21/Alunos/Cursosofertaforativa.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Place21/Alunos/Diploma.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/Place21/Alunos/Diploma.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/Place21/Alunos/Exportacoesalunos.PNG",
       "output": {
         "resource": {
@@ -436,10 +529,76 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/Place21/Alunos/alunoseturmas.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/Place21/Alunos/alunoseturmas.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Place21/Alunos/cientificohumanistico.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/Place21/Alunos/cientificohumanistico.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Place21/Alunos/comparacao.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/Place21/Alunos/comparacao.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Place21/Alunos/compararcursos.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/Place21/Alunos/compararcursos.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/Place21/Alunos/consulta.PNG",
       "output": {
         "resource": {
           "relative_path": "images/Place21/Alunos/consulta.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Place21/Alunos/copiarcursos.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/Place21/Alunos/copiarcursos.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Place21/Alunos/cursos.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/Place21/Alunos/cursos.PNG"
         }
       },
       "is_incremental": false,
@@ -462,6 +621,17 @@
       "output": {
         "resource": {
           "relative_path": "images/Place21/Alunos/desconsiderarfaltas.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Place21/Alunos/escolas.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/Place21/Alunos/escolas.PNG"
         }
       },
       "is_incremental": false,
@@ -557,6 +727,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/Place21/Alunos/link.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/Place21/Alunos/link.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/Place21/Alunos/matricula21.PNG",
       "output": {
         "resource": {
@@ -601,10 +782,54 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/Place21/Alunos/novocurso.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/Place21/Alunos/novocurso.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Place21/Alunos/ofertaformativa.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/Place21/Alunos/ofertaformativa.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/Place21/Alunos/place21.PNG",
       "output": {
         "resource": {
           "relative_path": "images/Place21/Alunos/place21.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Place21/Alunos/preferencias.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/Place21/Alunos/preferencias.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Place21/Alunos/preinscriçoes.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/Place21/Alunos/preinscriçoes.PNG"
         }
       },
       "is_incremental": false,
@@ -627,6 +852,28 @@
       "output": {
         "resource": {
           "relative_path": "images/Place21/Alunos/sumarios.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Place21/Alunos/tipodecurso.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/Place21/Alunos/tipodecurso.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Place21/Alunos/visualizarcurso.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/Place21/Alunos/visualizarcurso.PNG"
         }
       },
       "is_incremental": false,
@@ -803,7 +1050,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "6UhomMBrtaeIuapjXNEoDw=="
+          "hash": "Vql00MxymuwlQuMfx/YqNg=="
         }
       },
       "is_incremental": false,
@@ -830,18 +1077,18 @@
         "incrementalPhase": "build"
       },
       "processors": {
-        "ResourceDocumentProcessor": {
+        "TocDocumentProcessor": {
           "can_incremental": false,
-          "details": "Processor ResourceDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "details": "Processor TocDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
           "incrementalPhase": "build"
         },
         "ConceptualDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build"
         },
-        "TocDocumentProcessor": {
+        "ResourceDocumentProcessor": {
           "can_incremental": false,
-          "details": "Processor TocDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "details": "Processor ResourceDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
           "incrementalPhase": "build"
         }
       }
