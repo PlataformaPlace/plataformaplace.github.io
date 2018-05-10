@@ -18,7 +18,7 @@
       "output": {
         ".html": {
           "relative_path": "Place21/Alunos/Renovacoes.html",
-          "hash": "r5NXBGWihXiJE6SXVa0sxA=="
+          "hash": "YwsIqPzabr7ra9+DlRyORQ=="
         }
       },
       "is_incremental": false,
@@ -66,7 +66,7 @@
       "output": {
         ".html": {
           "relative_path": "Place21/Alunos/mudancacurso.html",
-          "hash": "d0Yga9toCRfWudRS7ZFp0Q=="
+          "hash": "iu7rfdIebntAewxF2QutbQ=="
         }
       },
       "is_incremental": false,
@@ -78,7 +78,7 @@
       "output": {
         ".html": {
           "relative_path": "Place21/Alunos/ofertaformativa.html",
-          "hash": "Bemf8n9+RiapgqiFL44tPw=="
+          "hash": "7nrGTs4K8kkXaGo2qnC4uA=="
         }
       },
       "is_incremental": false,
@@ -90,7 +90,7 @@
       "output": {
         ".html": {
           "relative_path": "Place21/Alunos/preinscricoes9ano.html",
-          "hash": "iCdAwMWAHDjRFHN0m0n64g=="
+          "hash": "nRJJYwid/2rflSxk+F0k/g=="
         }
       },
       "is_incremental": false,
@@ -138,7 +138,7 @@
       "output": {
         ".html": {
           "relative_path": "Place21/Docentes/sumarios.html",
-          "hash": "vapWINjV1ZRtLkPiLk8FpQ=="
+          "hash": "IO1wBVTV/Wv9J/VIuVdrLA=="
         }
       },
       "is_incremental": false,
@@ -150,7 +150,7 @@
       "output": {
         ".html": {
           "relative_path": "Place21/Encarregadodeeducacao/acessoaoplace.html",
-          "hash": "7cBPb94eOlQf8JSDbahufg=="
+          "hash": "5LTrYFdFYRVQFswa1LZzdA=="
         }
       },
       "is_incremental": false,
@@ -162,7 +162,7 @@
       "output": {
         ".html": {
           "relative_path": "Place21/Encarregadodeeducacao/index.html",
-          "hash": "dUaAnhDrn7TpxLHua6geMQ=="
+          "hash": "hYjiBOhAmCN+GDQRn/kelw=="
         }
       },
       "is_incremental": false,
@@ -234,7 +234,7 @@
       "output": {
         ".html": {
           "relative_path": "Place21/Escola/ofertaformativa.html",
-          "hash": "ficEGtOzRB4YAZVM9h/JEQ=="
+          "hash": "Nf/hOSR7KtrB/NC3e9VqaA=="
         }
       },
       "is_incremental": false,
@@ -270,7 +270,7 @@
       "output": {
         ".html": {
           "relative_path": "PlaceMiudos/Alunos/Acaosocial.html",
-          "hash": "uKaI0jAYGX84ljuHRHON4g=="
+          "hash": "hhF4VDMbGt2pFG7t4Yi3yQ=="
         }
       },
       "is_incremental": false,
@@ -282,7 +282,7 @@
       "output": {
         ".html": {
           "relative_path": "PlaceMiudos/Alunos/Renovacoes.html",
-          "hash": "h1eJPiUm2nA9j9bbxivlMA=="
+          "hash": "NTBVG8TTePuzs5OuisiYKw=="
         }
       },
       "is_incremental": false,
@@ -306,7 +306,7 @@
       "output": {
         ".html": {
           "relative_path": "PlaceMiudos/Alunos/inscricoes.html",
-          "hash": "5ruNOarjl2Zjxr7/JnVDoA=="
+          "hash": "C4JP4XTTk2vffgSv96gNOQ=="
         }
       },
       "is_incremental": false,
@@ -318,7 +318,7 @@
       "output": {
         ".html": {
           "relative_path": "PlaceMiudos/Alunos/transferencias.html",
-          "hash": "yDxkLCW4I9yz/WKv91uohA=="
+          "hash": "rSTY4m4rpNS1tvo8lwjC6Q=="
         }
       },
       "is_incremental": false,
@@ -342,7 +342,7 @@
       "output": {
         ".html": {
           "relative_path": "PlaceMiudos/Docentes/Sumarios.html",
-          "hash": "wzi7uhfxWDayeEthqWhuFQ=="
+          "hash": "dpj7ZKKwiBKXBiDcBHnLng=="
         }
       },
       "is_incremental": false,
@@ -354,7 +354,7 @@
       "output": {
         ".html": {
           "relative_path": "PlaceMiudos/Docentes/horario.html",
-          "hash": "WCKbM77SwXWml+Q3ywRPjQ=="
+          "hash": "7HWHO221dLoXGH95iI8wFw=="
         }
       },
       "is_incremental": false,
@@ -402,7 +402,7 @@
       "output": {
         ".html": {
           "relative_path": "PlaceMiudos/Escola/Relatorios.html",
-          "hash": "UbjcjZvr2j9KcMs/u6V+eQ=="
+          "hash": "bkM/bn6aMAU9P3qvp7HZZA=="
         }
       },
       "is_incremental": false,
@@ -438,7 +438,7 @@
       "output": {
         ".html": {
           "relative_path": "PlaceMiudos/index.html",
-          "hash": "TEfUf7cqTn1YjtUd8xbwww=="
+          "hash": "7Kbw8BrGHozV0IHn/l5nug=="
         }
       },
       "is_incremental": false,
@@ -726,6 +726,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/Place21/Alunos/ler.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/Place21/Alunos/ler.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/Place21/Alunos/link.PNG",
       "output": {
         "resource": {
@@ -829,6 +840,17 @@
       "output": {
         "resource": {
           "relative_path": "images/Place21/Alunos/preinscriçoes.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Place21/Alunos/renovacao.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/Place21/Alunos/renovacao.PNG"
         }
       },
       "is_incremental": false,
@@ -1049,7 +1071,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "Vql00MxymuwlQuMfx/YqNg=="
+          "hash": "gzquRxUO2B8uSEbeW71Wkg=="
         }
       },
       "is_incremental": false,
@@ -1076,14 +1098,14 @@
         "incrementalPhase": "build"
       },
       "processors": {
-        "ResourceDocumentProcessor": {
-          "can_incremental": false,
-          "details": "Processor ResourceDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
-          "incrementalPhase": "build"
-        },
         "TocDocumentProcessor": {
           "can_incremental": false,
           "details": "Processor TocDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build"
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
           "incrementalPhase": "build"
         },
         "ConceptualDocumentProcessor": {
