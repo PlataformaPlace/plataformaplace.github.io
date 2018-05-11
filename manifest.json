@@ -18,7 +18,7 @@
       "output": {
         ".html": {
           "relative_path": "Place21/Alunos/Renovacoes.html",
-          "hash": "YwsIqPzabr7ra9+DlRyORQ=="
+          "hash": "dcT8Pb+sZqAMhUuLogwudQ=="
         }
       },
       "is_incremental": false,
@@ -30,7 +30,7 @@
       "output": {
         ".html": {
           "relative_path": "Place21/Alunos/faltas.html",
-          "hash": "Aly3mJQsF6IjgWBvj9iKqA=="
+          "hash": "+Sbz6yUMLWfItuCLyIOpRg=="
         }
       },
       "is_incremental": false,
@@ -42,7 +42,7 @@
       "output": {
         ".html": {
           "relative_path": "Place21/Alunos/index.html",
-          "hash": "l/9fdVmPaXyTtmh7wS6/Tg=="
+          "hash": "oG21iXiZWR0ORBgy24dW5w=="
         }
       },
       "is_incremental": false,
@@ -54,7 +54,7 @@
       "output": {
         ".html": {
           "relative_path": "Place21/Alunos/matricula.html",
-          "hash": "makM8jucWV5le+hgKE4+rw=="
+          "hash": "AXFrITAalJ6Ia+hy+Qt+cQ=="
         }
       },
       "is_incremental": false,
@@ -66,7 +66,7 @@
       "output": {
         ".html": {
           "relative_path": "Place21/Alunos/mudancacurso.html",
-          "hash": "iu7rfdIebntAewxF2QutbQ=="
+          "hash": "7ML67Dg9njxxdPCD7N5bHQ=="
         }
       },
       "is_incremental": false,
@@ -78,7 +78,7 @@
       "output": {
         ".html": {
           "relative_path": "Place21/Alunos/ofertaformativa.html",
-          "hash": "7nrGTs4K8kkXaGo2qnC4uA=="
+          "hash": "09D1N5FpGLYUYTNkWYoklA=="
         }
       },
       "is_incremental": false,
@@ -90,7 +90,7 @@
       "output": {
         ".html": {
           "relative_path": "Place21/Alunos/preinscricoes9ano.html",
-          "hash": "nRJJYwid/2rflSxk+F0k/g=="
+          "hash": "IdBcxzIZSAM2hjE0XQwfxg=="
         }
       },
       "is_incremental": false,
@@ -102,7 +102,7 @@
       "output": {
         ".html": {
           "relative_path": "Place21/Docentes/Faltas.html",
-          "hash": "4kOrdWWDPaJBe+kTNVgOqw=="
+          "hash": "rKxCeBYjVSctEQlOi0mTzQ=="
         }
       },
       "is_incremental": false,
@@ -114,7 +114,7 @@
       "output": {
         ".html": {
           "relative_path": "Place21/Docentes/Horarios.html",
-          "hash": "ucfNBEoFk6ZEfouRZt4y3A=="
+          "hash": "mbUnruX99qC0TQTGfE1f+A=="
         }
       },
       "is_incremental": false,
@@ -126,7 +126,7 @@
       "output": {
         ".html": {
           "relative_path": "Place21/Docentes/index.html",
-          "hash": "XUxzOZNH26j5ZR8P0BjvFA=="
+          "hash": "YZ6IPWLO7ZeEbCWaX323UA=="
         }
       },
       "is_incremental": false,
@@ -138,7 +138,7 @@
       "output": {
         ".html": {
           "relative_path": "Place21/Docentes/sumarios.html",
-          "hash": "IO1wBVTV/Wv9J/VIuVdrLA=="
+          "hash": "fIhZbHGJUTs1g1F6ZbXxFw=="
         }
       },
       "is_incremental": false,
@@ -150,7 +150,7 @@
       "output": {
         ".html": {
           "relative_path": "Place21/Encarregadodeeducacao/acessoaoplace.html",
-          "hash": "WvZ/7ZxwRxIiUrSZDywMjw=="
+          "hash": "++Nbbj0qMcNRciHuGv9wCg=="
         }
       },
       "is_incremental": false,
@@ -162,7 +162,7 @@
       "output": {
         ".html": {
           "relative_path": "Place21/Encarregadodeeducacao/index.html",
-          "hash": "hYjiBOhAmCN+GDQRn/kelw=="
+          "hash": "WSeWdQ+bjWvnmi95eKZuOw=="
         }
       },
       "is_incremental": false,
@@ -174,7 +174,7 @@
       "output": {
         ".html": {
           "relative_path": "Place21/Escola/Importacoesdedados.html",
-          "hash": "J3ui9UT4c7Bfpc3rYB9JqA=="
+          "hash": "9gpev9Dvqvd2c/s1QHq5jg=="
         }
       },
       "is_incremental": false,
@@ -186,7 +186,7 @@
       "output": {
         ".html": {
           "relative_path": "Place21/Escola/Interrupcoesletivas.html",
-          "hash": "1pvcNxyzBKeChRw+rypoBw=="
+          "hash": "a33egRuSle0zzuJVrfMP8A=="
         }
       },
       "is_incremental": false,
@@ -198,7 +198,7 @@
       "output": {
         ".html": {
           "relative_path": "Place21/Escola/Recursosdaescola.html",
-          "hash": "8NHwsYcGH5vrj6qBjeQwtQ=="
+          "hash": "ZgFirrk2WLNhhtgQBt448Q=="
         }
       },
       "is_incremental": false,
@@ -210,7 +210,7 @@
       "output": {
         ".html": {
           "relative_path": "Place21/Escola/exportacoesdedados.html",
-          "hash": "mkGI4LkpSZCeutwey4pA5A=="
+          "hash": "4AbmgaJF91Ai+mF7Vmt5Kw=="
         }
       },
       "is_incremental": false,
@@ -222,7 +222,7 @@
       "output": {
         ".html": {
           "relative_path": "Place21/Escola/index.html",
-          "hash": "Va8Dl/UVLfQmvlCYyXU5Tg=="
+          "hash": "Xrwm1BkztCme26HkHFss3Q=="
         }
       },
       "is_incremental": false,
@@ -234,7 +234,7 @@
       "output": {
         ".html": {
           "relative_path": "Place21/Escola/ofertaformativa.html",
-          "hash": "Nf/hOSR7KtrB/NC3e9VqaA=="
+          "hash": "4AMYY4vCqnR42jwza2W14g=="
         }
       },
       "is_incremental": false,
@@ -246,7 +246,7 @@
       "output": {
         ".html": {
           "relative_path": "Place21/index.html",
-          "hash": "YoF9Nj6U623HLXPby4tg6w=="
+          "hash": "pBjjB0iB4ZmwfGGXi5GZRw=="
         }
       },
       "is_incremental": false,
@@ -258,7 +258,7 @@
       "output": {
         ".html": {
           "relative_path": "Place21/toc.html",
-          "hash": "UyJ+cYz2ZKhbBs0ok6/3/Q=="
+          "hash": "npbkDooAY2St+Ehs3O5HzA=="
         }
       },
       "is_incremental": false,
@@ -270,7 +270,7 @@
       "output": {
         ".html": {
           "relative_path": "PlaceMiudos/Alunos/Acaosocial.html",
-          "hash": "hhF4VDMbGt2pFG7t4Yi3yQ=="
+          "hash": "rLeaveCSy6YIc0zT6zOe8Q=="
         }
       },
       "is_incremental": false,
@@ -282,7 +282,7 @@
       "output": {
         ".html": {
           "relative_path": "PlaceMiudos/Alunos/Renovacoes.html",
-          "hash": "NTBVG8TTePuzs5OuisiYKw=="
+          "hash": "O1lVDiTqHIHb0iFKvTGr7A=="
         }
       },
       "is_incremental": false,
@@ -294,7 +294,7 @@
       "output": {
         ".html": {
           "relative_path": "PlaceMiudos/Alunos/index.html",
-          "hash": "9ckWDDTxuPl6K73R4IL/RQ=="
+          "hash": "yqx+7Ltb44KnGGu/rc0wnA=="
         }
       },
       "is_incremental": false,
@@ -306,7 +306,7 @@
       "output": {
         ".html": {
           "relative_path": "PlaceMiudos/Alunos/inscricoes.html",
-          "hash": "C4JP4XTTk2vffgSv96gNOQ=="
+          "hash": "GBJk98/cPzjdamWdZ/TvEg=="
         }
       },
       "is_incremental": false,
@@ -318,7 +318,7 @@
       "output": {
         ".html": {
           "relative_path": "PlaceMiudos/Alunos/transferencias.html",
-          "hash": "rSTY4m4rpNS1tvo8lwjC6Q=="
+          "hash": "gNyqr+hRr9jx20U7WxCW3g=="
         }
       },
       "is_incremental": false,
@@ -330,7 +330,7 @@
       "output": {
         ".html": {
           "relative_path": "PlaceMiudos/Alunos/turmas.html",
-          "hash": "MTYvp86fTvS3N4xghEygZQ=="
+          "hash": "5631AYEhzAB/sJ7spf8vjQ=="
         }
       },
       "is_incremental": false,
@@ -342,7 +342,7 @@
       "output": {
         ".html": {
           "relative_path": "PlaceMiudos/Docentes/Sumarios.html",
-          "hash": "dpj7ZKKwiBKXBiDcBHnLng=="
+          "hash": "bL3tf7s0JM4AwJKyzd09Hw=="
         }
       },
       "is_incremental": false,
@@ -354,7 +354,7 @@
       "output": {
         ".html": {
           "relative_path": "PlaceMiudos/Docentes/horario.html",
-          "hash": "7HWHO221dLoXGH95iI8wFw=="
+          "hash": "zqKIpYqnvg8s27fSDKpxaA=="
         }
       },
       "is_incremental": false,
@@ -366,7 +366,7 @@
       "output": {
         ".html": {
           "relative_path": "PlaceMiudos/Docentes/index.html",
-          "hash": "07RfubbOKbOJMfgBj9wtFA=="
+          "hash": "nteEnHgQ4z1/MT9DWedTSw=="
         }
       },
       "is_incremental": false,
@@ -378,7 +378,7 @@
       "output": {
         ".html": {
           "relative_path": "PlaceMiudos/Escola/Exportacoes.html",
-          "hash": "my/XzY2N7wGRd1Dugt0j0A=="
+          "hash": "TPkYE2b/K297tibIqBOd+Q=="
         }
       },
       "is_incremental": false,
@@ -390,7 +390,7 @@
       "output": {
         ".html": {
           "relative_path": "PlaceMiudos/Escola/Recursosdaescola.html",
-          "hash": "dRLpGqUSM8fhVqG99JXzTA=="
+          "hash": "MIlSlUCP9ZeaLF7u5KGTRw=="
         }
       },
       "is_incremental": false,
@@ -402,7 +402,7 @@
       "output": {
         ".html": {
           "relative_path": "PlaceMiudos/Escola/Relatorios.html",
-          "hash": "bkM/bn6aMAU9P3qvp7HZZA=="
+          "hash": "jzGyGfPp/lovMSk/TzANcg=="
         }
       },
       "is_incremental": false,
@@ -414,7 +414,7 @@
       "output": {
         ".html": {
           "relative_path": "PlaceMiudos/Escola/index.html",
-          "hash": "s+3FpEeJ7HTXdsUcoHBRJw=="
+          "hash": "xxptZqUFz+Z5wdxc0/6qIg=="
         }
       },
       "is_incremental": false,
@@ -426,7 +426,7 @@
       "output": {
         ".html": {
           "relative_path": "PlaceMiudos/Escola/interrupcoesletivas.html",
-          "hash": "L/VPx3skrhPOGCg0srO2Kw=="
+          "hash": "Z7ArF07jMGFBAiTAgtONMA=="
         }
       },
       "is_incremental": false,
@@ -438,7 +438,7 @@
       "output": {
         ".html": {
           "relative_path": "PlaceMiudos/index.html",
-          "hash": "7Kbw8BrGHozV0IHn/l5nug=="
+          "hash": "B0j9EKcOYcj7W1qYjmaS8Q=="
         }
       },
       "is_incremental": false,
@@ -450,7 +450,7 @@
       "output": {
         ".html": {
           "relative_path": "PlaceMiudos/toc.html",
-          "hash": "VPoMrYxVgMcCEl9naAMAUA=="
+          "hash": "qgojkU0iV5NxWo+RJ4yozw=="
         }
       },
       "is_incremental": false,
@@ -458,14 +458,15 @@
     },
     {
       "log_codes": [
-        "InvalidYamlHeader"
+        "InvalidYamlHeader",
+        "InvalidFileLink"
       ],
       "type": "Conceptual",
       "source_relative_path": "demo.md",
       "output": {
         ".html": {
           "relative_path": "demo.html",
-          "hash": "US4glU+S8L144zr02Hwr3Q=="
+          "hash": "5OYDTf7XElVEZ3avzH6rMQ=="
         }
       },
       "is_incremental": false,
@@ -1071,7 +1072,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "gzquRxUO2B8uSEbeW71Wkg=="
+          "hash": "HX2hF1c7M5Sziyu3nihCjQ=="
         }
       },
       "is_incremental": false,
@@ -1083,7 +1084,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "X3Gi3/zsp7opU65sAXKIJA=="
+          "hash": "7AC3TQjlGbis4Gr3W9rYYw=="
         }
       },
       "is_incremental": false,
@@ -1098,14 +1099,14 @@
         "incrementalPhase": "build"
       },
       "processors": {
-        "ResourceDocumentProcessor": {
-          "can_incremental": false,
-          "details": "Processor ResourceDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
-          "incrementalPhase": "build"
-        },
         "TocDocumentProcessor": {
           "can_incremental": false,
           "details": "Processor TocDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build"
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
           "incrementalPhase": "build"
         },
         "ConceptualDocumentProcessor": {
