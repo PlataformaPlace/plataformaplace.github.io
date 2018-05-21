@@ -90,7 +90,7 @@
       "output": {
         ".html": {
           "relative_path": "Place21/Alunos/preinscricoes9ano.html",
-          "hash": "detRMY9sb6b8BzZ/2273nA=="
+          "hash": "ihEq6ibpj/aFlrIIf9ZEPg=="
         }
       },
       "is_incremental": false,
@@ -234,7 +234,7 @@
       "output": {
         ".html": {
           "relative_path": "Place21/Escola/ofertaformativa.html",
-          "hash": "9iEz9kkvnsBxXOxlcX/ACw=="
+          "hash": "OTY7sOwb56INXKcfJ1Rh7w=="
         }
       },
       "is_incremental": false,
@@ -1103,13 +1103,13 @@
           "details": "Processor ResourceDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
           "incrementalPhase": "build"
         },
-        "ConceptualDocumentProcessor": {
-          "can_incremental": false,
-          "incrementalPhase": "build"
-        },
         "TocDocumentProcessor": {
           "can_incremental": false,
           "details": "Processor TocDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build"
+        },
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
           "incrementalPhase": "build"
         }
       }
