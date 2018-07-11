@@ -102,7 +102,7 @@
       "output": {
         ".html": {
           "relative_path": "Place21/Alunos/prematriculasonline10ano.html",
-          "hash": "ReQ6hWaBB58gdmrJqwjGug=="
+          "hash": "2B1sEqMaC82cHgsRX4Z1ug=="
         }
       },
       "is_incremental": false,
@@ -1115,13 +1115,13 @@
           "details": "Processor ResourceDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
           "incrementalPhase": "build"
         },
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build"
+        },
         "TocDocumentProcessor": {
           "can_incremental": false,
           "details": "Processor TocDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
-          "incrementalPhase": "build"
-        },
-        "ConceptualDocumentProcessor": {
-          "can_incremental": false,
           "incrementalPhase": "build"
         }
       }
