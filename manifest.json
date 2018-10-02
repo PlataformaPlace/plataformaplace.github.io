@@ -390,7 +390,7 @@
       "output": {
         ".html": {
           "relative_path": "PlaceMiudos/Docentes/horario.html",
-          "hash": "a04dBi1y4PFBpIAsTiioFQ=="
+          "hash": "7jm3d/eqP6iP5Yxel/UfuQ=="
         }
       },
       "is_incremental": false,
@@ -623,6 +623,17 @@
       "output": {
         "resource": {
           "relative_path": "images/Place21/Alunos/asemiudos.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Place21/Alunos/atualizar.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/Place21/Alunos/atualizar.PNG"
         }
       },
       "is_incremental": false,
@@ -920,6 +931,17 @@
       "output": {
         "resource": {
           "relative_path": "images/Place21/Alunos/interrupcoes.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Place21/Alunos/lecionacao.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/Place21/Alunos/lecionacao.PNG"
         }
       },
       "is_incremental": false,
@@ -1354,14 +1376,14 @@
         "incrementalPhase": "build"
       },
       "processors": {
-        "ResourceDocumentProcessor": {
-          "can_incremental": false,
-          "details": "Processor ResourceDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
-          "incrementalPhase": "build"
-        },
         "TocDocumentProcessor": {
           "can_incremental": false,
           "details": "Processor TocDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build"
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
           "incrementalPhase": "build"
         },
         "ConceptualDocumentProcessor": {
