@@ -174,7 +174,7 @@
       "output": {
         ".html": {
           "relative_path": "Place21/Encarregadodeeducacao/acessoaoplace.html",
-          "hash": "gxsA5WOOe80L5RX0qfuoKg=="
+          "hash": "aDlru+I2mhD7nzTjCSoK9A=="
         }
       },
       "is_incremental": false,
@@ -501,7 +501,7 @@
       "output": {
         ".html": {
           "relative_path": "demo.html",
-          "hash": "5wZ3v6sXA0tyjwrI5JSPpA=="
+          "hash": "5C/oYZMhHX0Oq/nb+YlZIw=="
         }
       },
       "is_incremental": false,
@@ -1442,14 +1442,14 @@
         "incrementalPhase": "build"
       },
       "processors": {
-        "TocDocumentProcessor": {
-          "can_incremental": false,
-          "details": "Processor TocDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
-          "incrementalPhase": "build"
-        },
         "ResourceDocumentProcessor": {
           "can_incremental": false,
           "details": "Processor ResourceDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build"
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
           "incrementalPhase": "build"
         },
         "ConceptualDocumentProcessor": {
