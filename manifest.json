@@ -174,7 +174,7 @@
       "output": {
         ".html": {
           "relative_path": "Place21/Encarregadodeeducacao/acessoaoplace.html",
-          "hash": "sJN9p7aXZVQ6H8S6MLKt1g=="
+          "hash": "gxsA5WOOe80L5RX0qfuoKg=="
         }
       },
       "is_incremental": false,
@@ -542,10 +542,32 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/Place21/Alunos/Codigo.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/Place21/Alunos/Codigo.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/Place21/Alunos/Cursosofertaforativa.PNG",
       "output": {
         "resource": {
           "relative_path": "images/Place21/Alunos/Cursosofertaforativa.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Place21/Alunos/DARACESSO.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/Place21/Alunos/DARACESSO.PNG"
         }
       },
       "is_incremental": false,
@@ -762,6 +784,28 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/Place21/Alunos/dadosobrigatorios.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/Place21/Alunos/dadosobrigatorios.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Place21/Alunos/dadospessoais.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/Place21/Alunos/dadospessoais.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/Place21/Alunos/dadosprofissionais.PNG",
       "output": {
         "resource": {
@@ -806,6 +850,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/Place21/Alunos/entrar.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/Place21/Alunos/entrar.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/Place21/Alunos/escola.PNG",
       "output": {
         "resource": {
@@ -821,6 +876,17 @@
       "output": {
         "resource": {
           "relative_path": "images/Place21/Alunos/escolas.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Place21/Alunos/eventos.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/Place21/Alunos/eventos.PNG"
         }
       },
       "is_incremental": false,
@@ -1376,6 +1442,11 @@
         "incrementalPhase": "build"
       },
       "processors": {
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build"
+        },
         "TocDocumentProcessor": {
           "can_incremental": false,
           "details": "Processor TocDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
@@ -1383,11 +1454,6 @@
         },
         "ConceptualDocumentProcessor": {
           "can_incremental": false,
-          "incrementalPhase": "build"
-        },
-        "ResourceDocumentProcessor": {
-          "can_incremental": false,
-          "details": "Processor ResourceDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
           "incrementalPhase": "build"
         }
       }
