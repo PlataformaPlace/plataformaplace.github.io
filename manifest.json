@@ -170,11 +170,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "Place21/Encarregadodeeducacao/Acessoaoplace.md",
+      "source_relative_path": "Place21/Encarregadodeeducacao/acessoaoplace.md",
       "output": {
         ".html": {
-          "relative_path": "Place21/Encarregadodeeducacao/Acessoaoplace.html",
-          "hash": "2436zY2U0O2JUrl+K70r1w=="
+          "relative_path": "Place21/Encarregadodeeducacao/acessoaoplace.html",
+          "hash": "/3xNHNzqyC3vk/rx7ptCKg=="
         }
       },
       "is_incremental": false,
@@ -282,7 +282,7 @@
       "output": {
         ".html": {
           "relative_path": "Place21/toc.html",
-          "hash": "Q0nAjSn0PL15X/Tr2XO77g=="
+          "hash": "qb4x3OFKmzrO56yEuRfmQg=="
         }
       },
       "is_incremental": false,
@@ -1442,18 +1442,18 @@
         "incrementalPhase": "build"
       },
       "processors": {
-        "ResourceDocumentProcessor": {
+        "TocDocumentProcessor": {
           "can_incremental": false,
-          "details": "Processor ResourceDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "details": "Processor TocDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
           "incrementalPhase": "build"
         },
         "ConceptualDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build"
         },
-        "TocDocumentProcessor": {
+        "ResourceDocumentProcessor": {
           "can_incremental": false,
-          "details": "Processor TocDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "details": "Processor ResourceDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
           "incrementalPhase": "build"
         }
       }
