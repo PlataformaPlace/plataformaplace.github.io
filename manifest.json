@@ -170,30 +170,6 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "Place21/Encarregadodeeducacao/Acessoaoplace.md",
-      "output": {
-        ".html": {
-          "relative_path": "Place21/Encarregadodeeducacao/Acessoaoplace.html",
-          "hash": "O0Dzd7LthVZzr/tzoeEiMw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "Place21/Encarregadodeeducacao/index.md",
-      "output": {
-        ".html": {
-          "relative_path": "Place21/Encarregadodeeducacao/index.html",
-          "hash": "NQNxmFI5tgJzg/BOOBWqzg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "Place21/Escola/Importacoesdedados.md",
       "output": {
         ".html": {
@@ -266,11 +242,35 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "Place21/encarregadodeeducacao/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "Place21/encarregadodeeducacao/index.html",
+          "hash": "bJa3PSwL39iaPBuDbk56jw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Place21/encarregadodeeducacao/placealuno.md",
+      "output": {
+        ".html": {
+          "relative_path": "Place21/encarregadodeeducacao/placealuno.html",
+          "hash": "X3UpRiuecZc836GEAt0u/A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "Place21/index.md",
       "output": {
         ".html": {
           "relative_path": "Place21/index.html",
-          "hash": "l1cVX5FHvPC2jRt7/R+Erw=="
+          "hash": "QoTJPErTIF+w29W/I9v9EA=="
         }
       },
       "is_incremental": false,
@@ -282,7 +282,7 @@
       "output": {
         ".html": {
           "relative_path": "Place21/toc.html",
-          "hash": "Q0nAjSn0PL15X/Tr2XO77g=="
+          "hash": "1sDe5dqbMTpsAVBB2BFDSA=="
         }
       },
       "is_incremental": false,
