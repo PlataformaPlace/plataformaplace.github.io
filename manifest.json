@@ -170,6 +170,30 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "Place21/Encarregadodeeducacao/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "Place21/Encarregadodeeducacao/index.html",
+          "hash": "NQNxmFI5tgJzg/BOOBWqzg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Place21/Encarregadodeeducacao/placealuno.md",
+      "output": {
+        ".html": {
+          "relative_path": "Place21/Encarregadodeeducacao/placealuno.html",
+          "hash": "s9CRsT4CiYFJzTH020+Q6g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "Place21/Escola/Importacoesdedados.md",
       "output": {
         ".html": {
@@ -242,30 +266,6 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "Place21/encarregadodeeducacao/index.md",
-      "output": {
-        ".html": {
-          "relative_path": "Place21/encarregadodeeducacao/index.html",
-          "hash": "bJa3PSwL39iaPBuDbk56jw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "Place21/encarregadodeeducacao/placealuno.md",
-      "output": {
-        ".html": {
-          "relative_path": "Place21/encarregadodeeducacao/placealuno.html",
-          "hash": "X3UpRiuecZc836GEAt0u/A=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "Place21/index.md",
       "output": {
         ".html": {
@@ -282,7 +282,7 @@
       "output": {
         ".html": {
           "relative_path": "Place21/toc.html",
-          "hash": "1sDe5dqbMTpsAVBB2BFDSA=="
+          "hash": "GgkK3Ij1sM7jrmINgRkBdg=="
         }
       },
       "is_incremental": false,
