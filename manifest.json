@@ -122,6 +122,18 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "Place21/Docentes/Avaliacao.md",
+      "output": {
+        ".html": {
+          "relative_path": "Place21/Docentes/Avaliacao.html",
+          "hash": "i5UZ7L3iUWq5haPgh2D/1w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "Place21/Docentes/Faltas.md",
       "output": {
         ".html": {
@@ -282,7 +294,7 @@
       "output": {
         ".html": {
           "relative_path": "Place21/toc.html",
-          "hash": "GgkK3Ij1sM7jrmINgRkBdg=="
+          "hash": "J+TkBY3MlqD7Q+Dx4u9Ajg=="
         }
       },
       "is_incremental": false,
@@ -367,6 +379,18 @@
         ".html": {
           "relative_path": "PlaceMiudos/Alunos/turmas.html",
           "hash": "2+z3+Ar2UOybNuHnvgE9Pw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "PlaceMiudos/Docentes/Avaliacao.md",
+      "output": {
+        ".html": {
+          "relative_path": "PlaceMiudos/Docentes/Avaliacao.html",
+          "hash": "WQXghjpgsHX+JeE3XmoduQ=="
         }
       },
       "is_incremental": false,
@@ -623,6 +647,17 @@
       "output": {
         "resource": {
           "relative_path": "images/Place21/Alunos/Token.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Place21/Alunos/abrirpautas.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/Place21/Alunos/abrirpautas.PNG"
         }
       },
       "is_incremental": false,
@@ -1147,6 +1182,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/Place21/Alunos/publicar.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/Place21/Alunos/publicar.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/Place21/Alunos/renovacao.PNG",
       "output": {
         "resource": {
@@ -1442,6 +1488,11 @@
         "incrementalPhase": "build"
       },
       "processors": {
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build"
+        },
         "TocDocumentProcessor": {
           "can_incremental": false,
           "details": "Processor TocDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
@@ -1449,11 +1500,6 @@
         },
         "ConceptualDocumentProcessor": {
           "can_incremental": false,
-          "incrementalPhase": "build"
-        },
-        "ResourceDocumentProcessor": {
-          "can_incremental": false,
-          "details": "Processor ResourceDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
           "incrementalPhase": "build"
         }
       }
