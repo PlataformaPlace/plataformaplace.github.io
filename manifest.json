@@ -194,18 +194,6 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "Place21/Encarregadodeeducacao/placealuno.md",
-      "output": {
-        ".html": {
-          "relative_path": "Place21/Encarregadodeeducacao/placealuno.html",
-          "hash": "zNysWWZd/Sg41a2FOTE0qg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "Place21/Escola/Importacoesdedados.md",
       "output": {
         ".html": {
@@ -289,36 +277,45 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Toc",
       "source_relative_path": "Place21/toc.md",
       "output": {
         ".html": {
           "relative_path": "Place21/toc.html",
-          "hash": "J+TkBY3MlqD7Q+Dx4u9Ajg=="
+          "hash": "yc5Hu85YTE++jgebe3auOw=="
         }
       },
       "is_incremental": false,
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "PlaceAluno/Alunos/index.md",
       "output": {
         ".html": {
           "relative_path": "PlaceAluno/Alunos/index.html",
-          "hash": "OOQHpFRFQ6fAajji5VRvTA=="
+          "hash": "0PdCDzPyMO0eXRrY4YQr0w=="
         }
       },
       "is_incremental": false,
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "PlaceAluno/Encarregadodeeducacao/index.md",
       "output": {
         ".html": {
           "relative_path": "PlaceAluno/Encarregadodeeducacao/index.html",
-          "hash": "cyMe4sST+xRsUB7iZ2zkQg=="
+          "hash": "3JoGe8DnLHUzdLg6hCf9yQ=="
         }
       },
       "is_incremental": false,
@@ -330,7 +327,7 @@
       "output": {
         ".html": {
           "relative_path": "PlaceAluno/index.html",
-          "hash": "HlZ/HmvLL5nZyG/pWnRQtg=="
+          "hash": "F1X+i2US5hqI5qKraHqMuw=="
         }
       },
       "is_incremental": false,
@@ -1176,6 +1173,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/Place21/Alunos/novapass.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/Place21/Alunos/novapass.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/Place21/Alunos/novocurso.PNG",
       "output": {
         "resource": {
@@ -1564,13 +1572,13 @@
           "details": "Processor TocDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
           "incrementalPhase": "build"
         },
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build"
+        },
         "ResourceDocumentProcessor": {
           "can_incremental": false,
           "details": "Processor ResourceDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
-          "incrementalPhase": "build"
-        },
-        "ConceptualDocumentProcessor": {
-          "can_incremental": false,
           "incrementalPhase": "build"
         }
       }
