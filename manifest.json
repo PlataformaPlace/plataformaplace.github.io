@@ -301,15 +301,12 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Conceptual",
       "source_relative_path": "PlaceAluno/Encarregadodeeducacao/index.md",
       "output": {
         ".html": {
           "relative_path": "PlaceAluno/Encarregadodeeducacao/index.html",
-          "hash": "3JoGe8DnLHUzdLg6hCf9yQ=="
+          "hash": "RLAE0MjOaEhu0JhM9UmQyQ=="
         }
       },
       "is_incremental": false,
