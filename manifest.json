@@ -278,18 +278,6 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "Place21/PlaceAluno/Placealuno.md",
-      "output": {
-        ".html": {
-          "relative_path": "Place21/PlaceAluno/Placealuno.html",
-          "hash": "NDO5bnjqrLcw3G+3O/Ao1A=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "Place21/index.md",
       "output": {
         ".html": {
@@ -314,6 +302,30 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "PlaceAluno/aluno.md",
+      "output": {
+        ".html": {
+          "relative_path": "PlaceAluno/aluno.html",
+          "hash": "f/gxiNbBheO+FN50RErByg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "PlaceAluno/encarregadodeeducacao.md",
+      "output": {
+        ".html": {
+          "relative_path": "PlaceAluno/encarregadodeeducacao.html",
+          "hash": "aS+sZ1+Zn6LHw7HTu4kb5w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "PlaceAluno/index.md",
       "output": {
         ".html": {
@@ -325,12 +337,15 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Toc",
       "source_relative_path": "PlaceAluno/toc.md",
       "output": {
         ".html": {
           "relative_path": "PlaceAluno/toc.html",
-          "hash": "0SIQqsHKf4RawJao8v/dEA=="
+          "hash": "03PiPfee31CazJYPTYTCOA=="
         }
       },
       "is_incremental": false,
