@@ -314,6 +314,30 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "PlaceAluno/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "PlaceAluno/index.html",
+          "hash": "HlZ/HmvLL5nZyG/pWnRQtg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "PlaceAluno/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "PlaceAluno/toc.html",
+          "hash": "0SIQqsHKf4RawJao8v/dEA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "PlaceMiudos/Alunos/Acaosocial.md",
       "output": {
         ".html": {
@@ -1508,7 +1532,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "wNRzVFW5vCsRchwk4SRUkg=="
+          "hash": "HXYCmTnXtCefUEH1eV5L/Q=="
         }
       },
       "is_incremental": false,
@@ -1523,11 +1547,6 @@
         "incrementalPhase": "build"
       },
       "processors": {
-        "TocDocumentProcessor": {
-          "can_incremental": false,
-          "details": "Processor TocDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
-          "incrementalPhase": "build"
-        },
         "ResourceDocumentProcessor": {
           "can_incremental": false,
           "details": "Processor ResourceDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
@@ -1535,6 +1554,11 @@
         },
         "ConceptualDocumentProcessor": {
           "can_incremental": false,
+          "incrementalPhase": "build"
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
           "incrementalPhase": "build"
         }
       }
