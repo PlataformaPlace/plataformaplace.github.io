@@ -277,30 +277,24 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Toc",
       "source_relative_path": "Place21/toc.md",
       "output": {
         ".html": {
           "relative_path": "Place21/toc.html",
-          "hash": "yc5Hu85YTE++jgebe3auOw=="
+          "hash": "g9cjIXrizMzfh9oTmXSPEg=="
         }
       },
       "is_incremental": false,
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Conceptual",
       "source_relative_path": "PlaceAluno/Alunos/index.md",
       "output": {
         ".html": {
           "relative_path": "PlaceAluno/Alunos/index.html",
-          "hash": "iu9tLsJi1Q+L4i8NtNLXlg=="
+          "hash": "8q8UkiTPIwvlVbKCM76XYA=="
         }
       },
       "is_incremental": false,
@@ -1572,13 +1566,13 @@
           "details": "Processor TocDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
           "incrementalPhase": "build"
         },
-        "ConceptualDocumentProcessor": {
-          "can_incremental": false,
-          "incrementalPhase": "build"
-        },
         "ResourceDocumentProcessor": {
           "can_incremental": false,
           "details": "Processor ResourceDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build"
+        },
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
           "incrementalPhase": "build"
         }
       }
