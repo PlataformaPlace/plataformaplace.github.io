@@ -278,6 +278,18 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "Place21/PlaceAluno/file1.md",
+      "output": {
+        ".html": {
+          "relative_path": "Place21/PlaceAluno/file1.html",
+          "hash": "kHbyz+EZ2o8UaZtme8jZKQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "Place21/index.md",
       "output": {
         ".html": {
@@ -487,6 +499,18 @@
         ".html": {
           "relative_path": "PlaceMiudos/Escola/interrupcoesletivas.html",
           "hash": "KfMY5TdJCcTzVioHqO0yzg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "PlaceMiudos/file1.md",
+      "output": {
+        ".html": {
+          "relative_path": "PlaceMiudos/file1.html",
+          "hash": "qzUMh4UUN1SrCknyglC2lA=="
         }
       },
       "is_incremental": false,
@@ -1149,6 +1173,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/Place21/Alunos/placealuno.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/Place21/Alunos/placealuno.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/Place21/Alunos/preescolar.PNG",
       "output": {
         "resource": {
@@ -1461,7 +1496,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "7YQJUG9r6/VQf9LHIetH/g=="
+          "hash": "YsQUeLPas32VdL8NVGD0Vg=="
         }
       },
       "is_incremental": false,
@@ -1493,13 +1528,13 @@
           "details": "Processor TocDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
           "incrementalPhase": "build"
         },
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build"
+        },
         "ResourceDocumentProcessor": {
           "can_incremental": false,
           "details": "Processor ResourceDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
-          "incrementalPhase": "build"
-        },
-        "ConceptualDocumentProcessor": {
-          "can_incremental": false,
           "incrementalPhase": "build"
         }
       }
