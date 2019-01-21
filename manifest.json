@@ -54,7 +54,7 @@
       "output": {
         ".html": {
           "relative_path": "Place21/Alunos/manuais.html",
-          "hash": "0WhbuLdGR79l9FmAMlyDlg=="
+          "hash": "LDlEMCXOs7MMf9zXXxbnrw=="
         }
       },
       "is_incremental": false,
@@ -306,7 +306,7 @@
       "output": {
         ".html": {
           "relative_path": "PlaceAluno/Encarregadodeeducacao/index.html",
-          "hash": "jkxC8QlX/WThwg3yAJ9mVg=="
+          "hash": "5e+X8Jvh6/eTwukzVW5rqw=="
         }
       },
       "is_incremental": false,
@@ -691,6 +691,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/Place21/Alunos/Recuperacaocodigo.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/Place21/Alunos/Recuperacaocodigo.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/Place21/Alunos/Token.PNG",
       "output": {
         "resource": {
@@ -706,6 +717,17 @@
       "output": {
         "resource": {
           "relative_path": "images/Place21/Alunos/abrirpautas.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Place21/Alunos/alteracaopase.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/Place21/Alunos/alteracaopase.PNG"
         }
       },
       "is_incremental": false,
@@ -761,6 +783,17 @@
       "output": {
         "resource": {
           "relative_path": "images/Place21/Alunos/cientificohumanistico.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Place21/Alunos/codigorecuperacao.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/Place21/Alunos/codigorecuperacao.PNG"
         }
       },
       "is_incremental": false,
@@ -926,6 +959,17 @@
       "output": {
         "resource": {
           "relative_path": "images/Place21/Alunos/disciplinas.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Place21/Alunos/email.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/Place21/Alunos/email.PNG"
         }
       },
       "is_incremental": false,
@@ -1263,6 +1307,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/Place21/Alunos/recuperacao.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/Place21/Alunos/recuperacao.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/Place21/Alunos/renovacao.PNG",
       "output": {
         "resource": {
@@ -1307,6 +1362,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/Place21/Alunos/tempsnip.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/Place21/Alunos/tempsnip.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/Place21/Alunos/tic.PNG",
       "output": {
         "resource": {
@@ -1344,6 +1410,17 @@
       "output": {
         "resource": {
           "relative_path": "images/Place21/Alunos/titulares.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Place21/Alunos/validação.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/Place21/Alunos/validação.PNG"
         }
       },
       "is_incremental": false,
