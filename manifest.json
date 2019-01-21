@@ -306,7 +306,7 @@
       "output": {
         ".html": {
           "relative_path": "PlaceAluno/Encarregadodeeducacao/index.html",
-          "hash": "3zkKnx02Yo5vTabv/epzyQ=="
+          "hash": "IDe7xwAaVeTxgpkzkxuu7w=="
         }
       },
       "is_incremental": false,
@@ -1640,13 +1640,13 @@
           "details": "Processor ResourceDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
           "incrementalPhase": "build"
         },
-        "ConceptualDocumentProcessor": {
-          "can_incremental": false,
-          "incrementalPhase": "build"
-        },
         "TocDocumentProcessor": {
           "can_incremental": false,
           "details": "Processor TocDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build"
+        },
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
           "incrementalPhase": "build"
         }
       }
