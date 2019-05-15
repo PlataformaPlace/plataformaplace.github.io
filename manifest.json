@@ -54,7 +54,7 @@
       "output": {
         ".html": {
           "relative_path": "Place21/Alunos/manuais.html",
-          "hash": "0WhbuLdGR79l9FmAMlyDlg=="
+          "hash": "1toylhhpdjve59scVR/Hew=="
         }
       },
       "is_incremental": false,
@@ -90,7 +90,7 @@
       "output": {
         ".html": {
           "relative_path": "Place21/Alunos/ofertaformativa.html",
-          "hash": "Mb/nGTcVsjvLKPvwLJvcdA=="
+          "hash": "oSo7sCqkCn57oysnT45ZjA=="
         }
       },
       "is_incremental": false,
@@ -102,7 +102,7 @@
       "output": {
         ".html": {
           "relative_path": "Place21/Alunos/preinscricoes9ano.html",
-          "hash": "ghjZSVlrGFYHYqnq7xWdaQ=="
+          "hash": "6iLVbYdlov9aIELApwR4yg=="
         }
       },
       "is_incremental": false,
@@ -114,7 +114,7 @@
       "output": {
         ".html": {
           "relative_path": "Place21/Alunos/prematriculasonline10ano.html",
-          "hash": "Ax8LFb0BEQtIz/ZbSXFVjQ=="
+          "hash": "CpxvqppnG0iKbl34zpyeHw=="
         }
       },
       "is_incremental": false,
@@ -258,7 +258,7 @@
       "output": {
         ".html": {
           "relative_path": "Place21/Escola/ofertaformativa.html",
-          "hash": "cvZLeM1JTX/NDNJA4/8Fxg=="
+          "hash": "qryqjjbwZv89chkGsMrZcA=="
         }
       },
       "is_incremental": false,
@@ -390,7 +390,7 @@
       "output": {
         ".html": {
           "relative_path": "PlaceMiudos/Alunos/manuaisescolares.html",
-          "hash": "WvA0nKuHVQN58m8UIgKm1Q=="
+          "hash": "PfcZAyR+HOao+VQybo24lA=="
         }
       },
       "is_incremental": false,
@@ -1635,6 +1635,10 @@
         "incrementalPhase": "build"
       },
       "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build"
+        },
         "ResourceDocumentProcessor": {
           "can_incremental": false,
           "details": "Processor ResourceDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
@@ -1643,10 +1647,6 @@
         "TocDocumentProcessor": {
           "can_incremental": false,
           "details": "Processor TocDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
-          "incrementalPhase": "build"
-        },
-        "ConceptualDocumentProcessor": {
-          "can_incremental": false,
           "incrementalPhase": "build"
         }
       }
