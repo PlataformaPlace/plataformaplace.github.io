@@ -150,7 +150,7 @@
       "output": {
         ".html": {
           "relative_path": "Place21/Docentes/Horarios.html",
-          "hash": "a/u97p4iqQI1DMec464HOg=="
+          "hash": "Pu6z8dOumSVLDKM0zdeSmw=="
         }
       },
       "is_incremental": false,
@@ -450,7 +450,7 @@
       "output": {
         ".html": {
           "relative_path": "PlaceMiudos/Docentes/horario.html",
-          "hash": "SbfUVagcDsYmrED9FsqygA=="
+          "hash": "+LChvUQ6SqqxHBJpBcppdQ=="
         }
       },
       "is_incremental": false,
@@ -1186,6 +1186,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/Place21/Alunos/horariopre.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/Place21/Alunos/horariopre.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/Place21/Alunos/importacaonotas.PNG",
       "output": {
         "resource": {
@@ -1344,6 +1355,17 @@
       "output": {
         "resource": {
           "relative_path": "images/Place21/Alunos/placealuno.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Place21/Alunos/preeee.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/Place21/Alunos/preeee.PNG"
         }
       },
       "is_incremental": false,
