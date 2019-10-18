@@ -13,6 +13,17 @@
       "is_incremental": false
     },
     {
+      "type": "Resource",
+      "source_relative_path": "Documentos/NovaMatriz.pdf",
+      "output": {
+        "resource": {
+          "relative_path": "Documentos/NovaMatriz.pdf"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "type": "Conceptual",
       "source_relative_path": "Place21/Alunos/Renovacoes.md",
       "output": {
@@ -145,15 +156,12 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Conceptual",
       "source_relative_path": "Place21/Docentes/Horarios.md",
       "output": {
         ".html": {
           "relative_path": "Place21/Docentes/Horarios.html",
-          "hash": "6Hu0GRaySd06x/z7u3q0YA=="
+          "hash": "gaGEzc/gds4hB7XM8CYK9g=="
         }
       },
       "is_incremental": false,
@@ -1814,14 +1822,14 @@
         "incrementalPhase": "build"
       },
       "processors": {
-        "ResourceDocumentProcessor": {
-          "can_incremental": false,
-          "details": "Processor ResourceDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
-          "incrementalPhase": "build"
-        },
         "TocDocumentProcessor": {
           "can_incremental": false,
           "details": "Processor TocDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build"
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
           "incrementalPhase": "build"
         },
         "ConceptualDocumentProcessor": {
