@@ -24,6 +24,17 @@
       "version": ""
     },
     {
+      "type": "Resource",
+      "source_relative_path": "Documentos/cargos.pdf",
+      "output": {
+        "resource": {
+          "relative_path": "Documentos/cargos.pdf"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "type": "Conceptual",
       "source_relative_path": "Place21/Alunos/Renovacoes.md",
       "output": {
@@ -161,7 +172,7 @@
       "output": {
         ".html": {
           "relative_path": "Place21/Docentes/Horarios.html",
-          "hash": "gaGEzc/gds4hB7XM8CYK9g=="
+          "hash": "IhrG70ox/XmDcEtYMqjpxA=="
         }
       },
       "is_incremental": false,
@@ -461,7 +472,7 @@
       "output": {
         ".html": {
           "relative_path": "PlaceMiudos/Docentes/horario.html",
-          "hash": "YPI0+phQEMaya8HD7B3Mfw=="
+          "hash": "IiO/3x4VIgwAa9WCKLpjpA=="
         }
       },
       "is_incremental": false,
