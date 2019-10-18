@@ -150,7 +150,7 @@
       "output": {
         ".html": {
           "relative_path": "Place21/Docentes/Horarios.html",
-          "hash": "E+jEmxFW/GTLRH3nZ0Xlwg=="
+          "hash": "I9shNrK48WvgSBZOTmAp4Q=="
         }
       },
       "is_incremental": false,
@@ -933,6 +933,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/Place21/Alunos/curri.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/Place21/Alunos/curri.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/Place21/Alunos/cursos.PNG",
       "output": {
         "resource": {
@@ -1102,6 +1113,17 @@
       "output": {
         "resource": {
           "relative_path": "images/Place21/Alunos/eventos.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Place21/Alunos/exem.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/Place21/Alunos/exem.PNG"
         }
       },
       "is_incremental": false,
@@ -1772,13 +1794,13 @@
           "details": "Processor TocDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
           "incrementalPhase": "build"
         },
-        "ConceptualDocumentProcessor": {
-          "can_incremental": false,
-          "incrementalPhase": "build"
-        },
         "ResourceDocumentProcessor": {
           "can_incremental": false,
           "details": "Processor ResourceDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build"
+        },
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
           "incrementalPhase": "build"
         }
       }
