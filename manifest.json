@@ -172,7 +172,7 @@
       "output": {
         ".html": {
           "relative_path": "Place21/Docentes/Horarios.html",
-          "hash": "NwQOR8RWovuq3R7/LFXg7g=="
+          "hash": "rfv9rVLe7rUXwmNUW5jp9A=="
         }
       },
       "is_incremental": false,
@@ -472,7 +472,7 @@
       "output": {
         ".html": {
           "relative_path": "PlaceMiudos/Docentes/horario.html",
-          "hash": "f6id4isUX43FPVtGalVDYw=="
+          "hash": "KxLcoYntM3bv4nYFAX78iQ=="
         }
       },
       "is_incremental": false,
@@ -1833,11 +1833,6 @@
         "incrementalPhase": "build"
       },
       "processors": {
-        "TocDocumentProcessor": {
-          "can_incremental": false,
-          "details": "Processor TocDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
-          "incrementalPhase": "build"
-        },
         "ResourceDocumentProcessor": {
           "can_incremental": false,
           "details": "Processor ResourceDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
@@ -1845,6 +1840,11 @@
         },
         "ConceptualDocumentProcessor": {
           "can_incremental": false,
+          "incrementalPhase": "build"
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
           "incrementalPhase": "build"
         }
       }
